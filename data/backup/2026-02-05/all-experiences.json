@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-02-05T20:07:40.760Z",
+  "backup_date": "2026-02-05T20:14:50.347Z",
   "count": 2,
   "data": [
     {
@@ -22,7 +22,7 @@
       ],
       "intentVector": "Testing the article publishing system",
       "sdIndex": 7.5,
-      "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/67059428-b570-4cc5-9030-2dd8ed256cff/51f3bb94-8975-4fc1-8e91-644e6e505443/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SGNXCZ6O%2F20260205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260205T200740Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGwaCXVzLXdlc3QtMiJHMEUCIQDbJ5DwtpAd4ynd2N1P2jlzsQJoZFh4oZFbwKFvAoOPsAIgJ0Vi%2FKcfwUnhxGrYpZOK%2F7DMPpFNPJNe0acYBKqwmtoq%2FwMINRAAGgw2Mzc0MjMxODM4MDUiDHCOlG%2BWD7ZqxdRtDircA7pfTzCFkiOKBoZj%2Ffk2CeKVrdd0enha20bJNjP82eeX7gdlEYWZ5mHiNTkd3XFU29i%2Bd3alUswout1dcozwjQPWdhhQ3zHc0llXKXhuWFiml%2BBqSrGo%2FjRymSQr%2B9aku2evgaSO9nmCOyYPDUAxbfvKZabsPwGAWKpxBzzr8q0qaYbxQ2LFXvIIoJuufyxiH8XRcN%2Bnn9iw8tNHrROYCg%2FIpTmGKK1R1V7YIetVO3pwFFOcaNeQzWuG6BAesVnniliP%2FMGjh4CE%2FWiQ9jsqm4RBtyfMvXqMxLm2YmEvekfG6yAypOjb%2BE5oY2GK2G4eAieyFEoJhuZUdIYVzOg7aGXG6wbcTa02ik%2FVqE%2FXsRvr8ShbXy1xwzs6LIAV0efUrNLT6el6I2ssMjAK7%2Fv9YBaFO1CxRd0ChrWfajIPXLVA69Diw8kzrFRqUic2AbqqrN1ewg7xzucgHFSMfBrJjIyB9BgbKEO60Se0TXFU74Rov73HhUpsPulgkpCK4RLbN13z%2FsLN9W%2BNWVrSpvqYBw9yUaX3nuQiIXP1VkDJVnt9Ot3qz2Fsq92HQfBKfnCkOg1o%2FBjt%2BNixp97kWV6rCxElMoaQLtr7eSAWHk9DYmG4%2BL615n0CJIGIJGlDMNLnk8wGOqUBHt%2B9uGB%2FXEoqGq4J8AbBno5tZH0pxfoJODR4RZQhH%2FMlajh7kfyWVfv5qfls050WmkOiccknNIs1J5cMU0xJ965P7dbMaXWDcuEuRSW82Q33QcRrcNZo3VKsAFN4d3bVPkP3iWVdPQpuRi2YGzp3j5qpi9yDOw%2FUSPjjoW%2BhNBFwvWBCq9EeVqc32WwjD8%2BMA2gqj%2BpxcbAWnmi9IekLnoFEvNWE&X-Amz-Signature=51b186060a3dde558a7e1903dbfdcea7863b1369ff2d69e8fb6346960a50bdd9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/67059428-b570-4cc5-9030-2dd8ed256cff/51f3bb94-8975-4fc1-8e91-644e6e505443/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667JVH2MO7%2F20260205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260205T201449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGwaCXVzLXdlc3QtMiJGMEQCIGqAgb%2FEdCvGhuLGDz4e2nt03MyOh14YFo8QKL43afd0AiAG5I%2FBqmlwl72RtjAvz4LUWCPVno87QmerNqigdQK5bir%2FAwg1EAAaDDYzNzQyMzE4MzgwNSIM7Z3q58wQAaRKERCaKtwDjjqFEx%2FE%2ByLrYGnzDgqka75Q0JO1jfTvA%2BKSqJ6s%2BDViB393JCtXben77gAu36zyfpffu2Kiq57DhdELO1H%2BjLQ%2Bymbir%2FRMpwYG8RtP4w8lP7Jiet0WZEWdA5%2B1ZZFzGnAA5O9lLvyJYlP%2BYd5DAir3l4R9NWd33ubnTEw3Eqo6uFywgwAYmV8%2FxXgUtBuvC21QxF4%2Byg187NDHtkBIYSdy8NpsBrFWJ%2Fap4Hjpr9QxKRjkT1qait%2Ff73%2BTshHtd3h14SkEqACKOa1bP3szrNl1HEuJ4u4mtX0eFwfCR2poxqDeau%2BoZh7MGIrUcNmy4ROYkldX0X0Y%2FnOkOEmQKwTNsE2ydPZhEYVijDCxI1i7ACo6I6wIVjxHrUx%2F3m6oNUhdA1v0d067jpktgtxsaZ1WMBZA9VFTersp55uCFw%2Bz1lwDFZmYEWnQM8Avc33ZXLgUGyE0wQB%2BL15sJpiCywXUG8QZ4xS5JKwnerAvSxZjN7Xk6OAsObrvpUN%2F6z9r67DyBgbw6UaALPWyk2pn04JaSxv9OAn8abI%2Fo7LOJHU7WI5qcijidKWFIn7dPJjkyYXCkn5LvXWmlIx%2BeKT%2F9Xa5nYUGMcXfYYcFzKD%2BZKcHAqjJ0moxXlNfs18w1ueTzAY6pgEMugSs6yY5w69SwKxxkgbZFifPsJLGpI37APFhcLa%2BY6kBPSp%2F3TP%2B5kQJFXxewh3oiAFyAwB40Gg4kngPh2Wpepd%2BxDU%2FfHhUliDwBC5zeq3UTx7akxYaaW1vx%2BBRjjTXjX%2FomcEIGYLvRVCFZ8Nt9cidDgz5usC%2FwgOPZ1VCXxKBb2Vox68gE3WbSPfkZQb7XP2hCXYn25%2F5POioQ9y27R5aZDvX&X-Amz-Signature=dad028935b82d51b1b255d9a0eefd76eb8fb256bc0d6972841dbb2e3d8f8713a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "blocks": [
         {
           "object": "block",
@@ -311,7 +311,7 @@
       ],
       "embedding": null,
       "schema_version": "1.0",
-      "last_updated": "2026-02-05T20:07:40.693Z",
+      "last_updated": "2026-02-05T20:14:50.347Z",
       "language": "en",
       "excerpt": "Welcome to this test podcast episode. Today we're testing the Notion integration.",
       "readingTime": 1
@@ -335,7 +335,7 @@
       ],
       "intentVector": "Testing the article publishing system",
       "sdIndex": 7.5,
-      "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/67059428-b570-4cc5-9030-2dd8ed256cff/51f3bb94-8975-4fc1-8e91-644e6e505443/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SGNXCZ6O%2F20260205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260205T200740Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGwaCXVzLXdlc3QtMiJHMEUCIQDbJ5DwtpAd4ynd2N1P2jlzsQJoZFh4oZFbwKFvAoOPsAIgJ0Vi%2FKcfwUnhxGrYpZOK%2F7DMPpFNPJNe0acYBKqwmtoq%2FwMINRAAGgw2Mzc0MjMxODM4MDUiDHCOlG%2BWD7ZqxdRtDircA7pfTzCFkiOKBoZj%2Ffk2CeKVrdd0enha20bJNjP82eeX7gdlEYWZ5mHiNTkd3XFU29i%2Bd3alUswout1dcozwjQPWdhhQ3zHc0llXKXhuWFiml%2BBqSrGo%2FjRymSQr%2B9aku2evgaSO9nmCOyYPDUAxbfvKZabsPwGAWKpxBzzr8q0qaYbxQ2LFXvIIoJuufyxiH8XRcN%2Bnn9iw8tNHrROYCg%2FIpTmGKK1R1V7YIetVO3pwFFOcaNeQzWuG6BAesVnniliP%2FMGjh4CE%2FWiQ9jsqm4RBtyfMvXqMxLm2YmEvekfG6yAypOjb%2BE5oY2GK2G4eAieyFEoJhuZUdIYVzOg7aGXG6wbcTa02ik%2FVqE%2FXsRvr8ShbXy1xwzs6LIAV0efUrNLT6el6I2ssMjAK7%2Fv9YBaFO1CxRd0ChrWfajIPXLVA69Diw8kzrFRqUic2AbqqrN1ewg7xzucgHFSMfBrJjIyB9BgbKEO60Se0TXFU74Rov73HhUpsPulgkpCK4RLbN13z%2FsLN9W%2BNWVrSpvqYBw9yUaX3nuQiIXP1VkDJVnt9Ot3qz2Fsq92HQfBKfnCkOg1o%2FBjt%2BNixp97kWV6rCxElMoaQLtr7eSAWHk9DYmG4%2BL615n0CJIGIJGlDMNLnk8wGOqUBHt%2B9uGB%2FXEoqGq4J8AbBno5tZH0pxfoJODR4RZQhH%2FMlajh7kfyWVfv5qfls050WmkOiccknNIs1J5cMU0xJ965P7dbMaXWDcuEuRSW82Q33QcRrcNZo3VKsAFN4d3bVPkP3iWVdPQpuRi2YGzp3j5qpi9yDOw%2FUSPjjoW%2BhNBFwvWBCq9EeVqc32WwjD8%2BMA2gqj%2BpxcbAWnmi9IekLnoFEvNWE&X-Amz-Signature=51b186060a3dde558a7e1903dbfdcea7863b1369ff2d69e8fb6346960a50bdd9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/67059428-b570-4cc5-9030-2dd8ed256cff/51f3bb94-8975-4fc1-8e91-644e6e505443/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667JVH2MO7%2F20260205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260205T201449Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGwaCXVzLXdlc3QtMiJGMEQCIGqAgb%2FEdCvGhuLGDz4e2nt03MyOh14YFo8QKL43afd0AiAG5I%2FBqmlwl72RtjAvz4LUWCPVno87QmerNqigdQK5bir%2FAwg1EAAaDDYzNzQyMzE4MzgwNSIM7Z3q58wQAaRKERCaKtwDjjqFEx%2FE%2ByLrYGnzDgqka75Q0JO1jfTvA%2BKSqJ6s%2BDViB393JCtXben77gAu36zyfpffu2Kiq57DhdELO1H%2BjLQ%2Bymbir%2FRMpwYG8RtP4w8lP7Jiet0WZEWdA5%2B1ZZFzGnAA5O9lLvyJYlP%2BYd5DAir3l4R9NWd33ubnTEw3Eqo6uFywgwAYmV8%2FxXgUtBuvC21QxF4%2Byg187NDHtkBIYSdy8NpsBrFWJ%2Fap4Hjpr9QxKRjkT1qait%2Ff73%2BTshHtd3h14SkEqACKOa1bP3szrNl1HEuJ4u4mtX0eFwfCR2poxqDeau%2BoZh7MGIrUcNmy4ROYkldX0X0Y%2FnOkOEmQKwTNsE2ydPZhEYVijDCxI1i7ACo6I6wIVjxHrUx%2F3m6oNUhdA1v0d067jpktgtxsaZ1WMBZA9VFTersp55uCFw%2Bz1lwDFZmYEWnQM8Avc33ZXLgUGyE0wQB%2BL15sJpiCywXUG8QZ4xS5JKwnerAvSxZjN7Xk6OAsObrvpUN%2F6z9r67DyBgbw6UaALPWyk2pn04JaSxv9OAn8abI%2Fo7LOJHU7WI5qcijidKWFIn7dPJjkyYXCkn5LvXWmlIx%2BeKT%2F9Xa5nYUGMcXfYYcFzKD%2BZKcHAqjJ0moxXlNfs18w1ueTzAY6pgEMugSs6yY5w69SwKxxkgbZFifPsJLGpI37APFhcLa%2BY6kBPSp%2F3TP%2B5kQJFXxewh3oiAFyAwB40Gg4kngPh2Wpepd%2BxDU%2FfHhUliDwBC5zeq3UTx7akxYaaW1vx%2BBRjjTXjX%2FomcEIGYLvRVCFZ8Nt9cidDgz5usC%2FwgOPZ1VCXxKBb2Vox68gE3WbSPfkZQb7XP2hCXYn25%2F5POioQ9y27R5aZDvX&X-Amz-Signature=dad028935b82d51b1b255d9a0eefd76eb8fb256bc0d6972841dbb2e3d8f8713a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "blocks": [
         {
           "object": "block",
@@ -624,7 +624,7 @@
       ],
       "embedding": null,
       "schema_version": "1.0",
-      "last_updated": "2026-02-05T20:07:40.760Z",
+      "last_updated": "2026-02-05T20:14:49.952Z",
       "language": "en",
       "excerpt": "Welcome to this test podcast episode. Today we're testing the Notion integration.",
       "readingTime": 1
