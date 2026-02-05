@@ -1,0 +1,166 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { NotionLoader } from '../lib/notion-loader';
+import { renderBlocks } from '../lib/block-renderer';
+
+const { slug } = Astro.params;
+
+const loader = new NotionLoader(
+  import.meta.env.NOTION_API_KEY,
+  import.meta.env.NOTION_DATABASE_ID
+);
+
+const content = await loader.getBySlug(slug as string);
+
+if (!content) {
+  return Astro.redirect('/404');
+}
+
+const renderedContent = renderBlocks(content.blocks);
+
+export async function getStaticPaths() {
+  const loader = new NotionLoader(
+    import.meta.env.NOTION_API_KEY,
+    import.meta.env.NOTION_DATABASE_ID
+  );
+  
+  const allContent = await loader.getAll();
+  
+  return allContent.map((content) => ({
+    params: { slug: content.slug },
+  }));
+}
+---
+
+<Layout title={content.title} description={content.intentVector}>
+  <article class="min-h-screen bg-white">
+    
+    <!-- Hero Image -->
+    {content.heroImage && (
+      <div class="w-full h-[60vh] bg-neutral-100">
+        <img 
+          src={content.heroImage} 
+          alt={content.title}
+          class="w-full h-full object-cover"
+        />
+      </div>
+    )}
+    
+    <!-- Article Content -->
+    <div class="max-w-3xl mx-auto px-6 py-16">
+      
+      <!-- Breadcrumb -->
+      <a href="/" class="text-sm text-neutral-500 hover:text-neutral-900 mb-8 inline-block">
+        ← Back to all experiences
+      </a>
+      
+      <!-- Metadata -->
+      <div class="flex items-center gap-3 mb-6 text-sm text-neutral-500">
+        <span class="font-medium">{content.webCategory}</span>
+        <span>·</span>
+        <span>{content.date}</span>
+        <span>·</span>
+        <span class="uppercase text-xs">{content.contentType}</span>
+      </div>
+      
+      <!-- Title -->
+      <h1 class="text-5xl font-bold text-neutral-900 mb-6 leading-tight">
+        {content.title}
+      </h1>
+      
+      <!-- Intent Vector -->
+      <p class="text-xl text-neutral-600 mb-8 leading-relaxed">
+        {content.intentVector}
+      </p>
+      
+      <!-- Additional Meta -->
+      <div class="flex flex-wrap gap-6 py-6 mb-8 border-y border-neutral-200 text-sm">
+        <div>
+          <span class="text-neutral-500">Location:</span>
+          <span class="text-neutral-900 ml-2 font-medium">{content.location.name}</span>
+        </div>
+        <div>
+          <span class="text-neutral-500">SD-Index:</span>
+          <span class="text-neutral-900 ml-2 font-medium">{content.sdIndex}/10</span>
+        </div>
+      </div>
+      
+      {content.project.length > 0 && (
+        <div class="flex gap-2 flex-wrap mb-12">
+          {content.project.map((p) => (
+            <span class="text-xs px-3 py-1 bg-neutral-100 text-neutral-700 rounded-full">
+              {p}
+            </span>
+          ))}
+        </div>
+      )}
+      
+      <!-- Main Content -->
+      <div class="prose prose-lg prose-neutral max-w-none">
+        <Fragment set:html={renderedContent} />
+      </div>
+      
+    </div>
+    
+  </article>
+</Layout>
+
+<style>
+  .prose {
+    color: #404040;
+  }
+  
+  .prose h1, .prose h2, .prose h3 {
+    color: #171717;
+    font-weight: 700;
+  }
+  
+  .prose p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    line-height: 1.8;
+  }
+  
+  .prose ul, .prose ol {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+  
+  .prose li {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  .prose img {
+    border-radius: 0.5rem;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  
+  .prose blockquote {
+    border-left: 4px solid #e5e5e5;
+    padding-left: 1.5em;
+    font-style: italic;
+    color: #737373;
+  }
+  
+  .prose code {
+    background: #f5f5f5;
+    padding: 0.2em 0.4em;
+    border-radius: 0.25rem;
+    font-size: 0.9em;
+  }
+  
+  .prose pre {
+    background: #171717;
+    color: #fafafa;
+    padding: 1.5em;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+  }
+  
+  .prose pre code {
+    background: transparent;
+    padding: 0;
+  }
+</style>

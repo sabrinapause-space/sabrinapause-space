@@ -38,7 +38,7 @@ export class NotionLoader implements ContentLoader {
   }
 
   /**
-   * Fetch all pages from WEB_PUBLISH_VIEW (Status = "Ready for Web")
+   * Fetch all pages from WEB_PUBLISH_VIEW (Status = "Ready for Web" OR "Published")
    */
   private async fetchAllPages(): Promise<any[]> {
     const pages: any[] = [];
@@ -48,10 +48,20 @@ export class NotionLoader implements ContentLoader {
       const response = await this.notion.databases.query({
         database_id: this.databaseId,
         filter: {
-          property: 'Status',
-          select: {
-            equals: 'Ready for Web',
-          },
+          or: [
+            {
+              property: 'Status',
+              select: {
+                equals: 'Ready for Web',
+              },
+            },
+            {
+              property: 'Status',
+              select: {
+                equals: 'Published',
+              },
+            },
+          ],
         },
         start_cursor: cursor,
       });

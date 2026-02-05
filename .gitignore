@@ -28,6 +28,10 @@ lerna-debug.log*
 .env.production.local
 .env*.local
 
+# data backups (commit these to GitHub for data independence)
+# Remove the next line to track backups in git:
+# data/backup/
+
 # testing
 coverage/
 *.lcov

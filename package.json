@@ -4,10 +4,13 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "npm run backup && astro build && npm run publish-status",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "node tests/notion-connection.test.js"
+    "test": "node tests/notion-connection.test.js",
+    "backup": "tsx scripts/generate-backup.ts",
+    "sample": "tsx scripts/generate-sample-json.ts",
+    "publish-status": "tsx scripts/auto-publish-status.ts"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.15",

@@ -51,8 +51,26 @@ export interface BaseContent {
   // Content Body (from Notion blocks)
   blocks: NotionBlock[]; // Raw Notion block data
   
+  // AGI-First Metadata (v2.1)
+  dialogue?: Array<{
+    speaker: string;
+    text: string;
+  }>;
+  philosophical_insight?: {
+    metaphor?: string;
+    reflection?: string;
+  };
+  emotion_trajectory?: {
+    start: string;
+    end: string;
+  };
+  
   // Future AI Integration
   embedding?: number[] | null; // Reserved for vector embeddings
+  
+  // Metadata
+  schema_version: string; // Schema version
+  last_updated: string; // ISO 8601 timestamp
   
   // Language Support
   language: 'zh' | 'en'; // Inferred or default

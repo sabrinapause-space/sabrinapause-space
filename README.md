@@ -75,18 +75,20 @@ NOTION_DATABASE_ID=xxx
 |:---|:---|
 | `npm install` | Install dependencies |
 | `npm run dev` | Start dev server at `localhost:4321` |
-| `npm run build` | Build production site to `./dist/` |
+| `npm run build` | **Build site (includes auto-backup)** |
 | `npm run preview` | Preview production build locally |
-| `npm run test` | **Test Notion pipeline** |
+| `npm run test` | Test Notion connection |
+| `npm run sample` | **Generate sample JSON output** |
+| `npm run backup` | **Run GitHub backup system** |
 
 ## Development Progress
 
-### ✅ Milestone 1: Infrastructure & Notion Pipeline (COMPLETE)
+### ✅ Milestone 1: AGI-First Data Engine (COMPLETE)
 
 **Duration:** 6-7 hours  
-**Status:** ✅ COMPLETE
+**Status:** ✅ COMPLETE (Updated for v2.1 AGI-First Pivot)
 
-**Deliverables:**
+**Original Deliverables:**
 - ✅ Astro + Tailwind CSS setup
 - ✅ Notion API integration
 - ✅ ContentLoader abstraction layer
@@ -95,35 +97,38 @@ NOTION_DATABASE_ID=xxx
 - ✅ Block rendering system
 - ✅ Test script with real data
 
+**NEW: AGI-First Additions (v2.1):**
+- ✅ JSON API Endpoints (`/api/experiences.json`, `/api/experiences/{slug}.json`, `/api/schemas.json`)
+- ✅ GitHub Backup System (saves JSON to `/data/backup/YYYY-MM-DD/`)
+- ✅ Enhanced Schema with AGI-first metadata fields
+- ✅ Sample JSON generator
+
 **Acceptance Criteria:**
 - ✅ Console logs show structured content from Notion
 - ✅ All required properties mapped correctly
 - ✅ Block rendering pipeline functional
+- ✅ **NEW:** JSON API endpoints accessible
+- ✅ **NEW:** GitHub backup files generated
+- ✅ **NEW:** Enhanced schema with dialogue, philosophical_insight, emotion_trajectory
 
 **To verify Milestone 1:**
 ```bash
+# Test Notion connection
 npm run test
+
+# Generate sample JSON (shows SD-Index™ and Intent Vector)
+npm run sample
+
+# Test backup system
+npm run backup
+
+# Build and test API endpoints
+npm run build
+npm run preview
+# Then: curl http://localhost:4321/api/experiences.json
 ```
 
-Expected output:
-```
-✅ Found X page(s) with Status = "Ready for Web"
-
-📄 First page details:
-   Title: My First Article
-   Slug: my-first-article
-   
-📊 Properties:
-   Content Type: article
-   Web Category: journal
-   ...
-
-🏛️ Cultural Legacy Markers:
-   Intent Vector: Testing the article publishing system
-   SD-Index™: 7.5
-
-✅ Milestone 1 Complete!
-```
+**Documentation:** See [MILESTONE1-AGI-FIRST.md](./MILESTONE1-AGI-FIRST.md)
 
 ### 🚧 Milestone 2: Templates & Rendering (NEXT)
 
