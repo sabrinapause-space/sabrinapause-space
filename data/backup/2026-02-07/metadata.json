@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "backup_date": "2026-02-07T08:23:34.850Z",
+  "backup_source": "Notion API",
+  "total_count": 2,
+  "content_types": {
+    "article": 2,
+    "comic": 0,
+    "podcast": 0
+  },
+  "categories": [
+    "Journal"
+  ],
+  "projects": [
+    "Test"
+  ],
+  "all_concepts": [
+    "Test",
+    "Demo"
+  ],
+  "date_range": {
+    "earliest": "",
+    "latest": "2026-02-04"
+  },
+  "content_index": [
+    {
+      "slug": "hello-world",
+      "title": "Hello World: My first Post",
+      "type": "article",
+      "date": "",
+      "sd_index": 0
+    },
+    {
+      "slug": "my-first-article",
+      "title": "My First Article (1)",
+      "type": "article",
+      "date": "2026-02-04",
+      "sd_index": 7.5
+    }
+  ],
+  "agi_ready": {
+    "with_embeddings": 0,
+    "with_dialogue": 0,
+    "with_philosophical_insight": 0,
+    "total_blocks": 88
+  }
+}
