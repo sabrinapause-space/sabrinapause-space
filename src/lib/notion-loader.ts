@@ -103,13 +103,35 @@ export class NotionLoader implements ContentLoader {
 
     // Cache images if enabled
     if (this.cacheImages && this.imageCache) {
-      // Cache hero image using page ID as stable identifier
+      // 1. Hero Image
       if (content.heroImage) {
         const cachedUrl = await this.imageCache.cacheImage(content.heroImage, page.id);
-        content.heroImage = cachedUrl || undefined;
+        content.heroImage = cachedUrl || content.heroImage;
       }
 
-      // Cache images in blocks
+      // 2. Podcast audio files
+      if (content.contentType === 'podcast' && 'audioFiles' in content) {
+        const podcast = content as any;
+        for (let i = 0; i < podcast.audioFiles.length; i++) {
+          const file = podcast.audioFiles[i];
+          const stableId = `${page.id}-audio-${i}`;
+          const cachedUrl = await this.imageCache.cacheImage(file.url, stableId);
+          if (cachedUrl) file.url = cachedUrl;
+        }
+      }
+
+      // 3. Comic panels
+      if (content.contentType === 'comic' && 'panels' in content) {
+        const comic = content as any;
+        for (let i = 0; i < comic.panels.length; i++) {
+          const panel = comic.panels[i];
+          const stableId = `${page.id}-panel-${panel.panelNumber || i}`;
+          const cachedUrl = await this.imageCache.cacheImage(panel.imageUrl, stableId);
+          if (cachedUrl) panel.imageUrl = cachedUrl;
+        }
+      }
+
+      // 4. Blocks (Recursive)
       content.blocks = await this.imageCache.cacheBlockImages(content.blocks);
     }
 

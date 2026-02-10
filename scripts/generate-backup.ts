@@ -17,7 +17,8 @@ async function generateBackup() {
     // Initialize Notion loader
     const loader = new NotionLoader(
       process.env.NOTION_API_KEY!,
-      process.env.NOTION_DATABASE_ID!
+      process.env.NOTION_DATABASE_ID!,
+      { cacheImages: true }
     );
 
     // Fetch all content
@@ -32,7 +33,7 @@ async function generateBackup() {
     await backup.performFullBackup(content);
 
     console.log('\n✨ Backup generation complete!');
-    
+
     // Auto-commit to GitHub
     console.log('\n📦 Committing backup to GitHub...');
     await autoCommitBackup();
@@ -49,25 +50,25 @@ async function generateBackup() {
  */
 async function autoCommitBackup() {
   const { execSync } = await import('child_process');
-  
+
   try {
     const date = new Date().toISOString().split('T')[0];
-    
+
     // Add backup files
     console.log('   📁 Adding backup files to git...');
     execSync('git add data/backup/', { stdio: 'pipe' });
-    
+
     // Commit with descriptive message
     const commitMessage = `[AUTO] Backup: Notion content snapshot ${date}`;
     console.log(`   💾 Committing: "${commitMessage}"`);
     execSync(`git commit -m "${commitMessage}"`, { stdio: 'pipe' });
-    
+
     // Push to GitHub
     console.log('   ⬆️  Pushing to GitHub...');
     execSync('git push', { stdio: 'inherit' });
-    
+
     console.log('✅ Backup committed and pushed to GitHub!\n');
-    
+
   } catch (error: any) {
     // If no changes to commit, that's okay
     if (error.message?.includes('nothing to commit')) {

@@ -133,19 +133,30 @@ export class ImageCache {
     for (const block of blocks) {
       const updatedBlock = { ...block };
 
-      // Handle image blocks
-      if (block.type === 'image') {
-        const imageUrl = block.image?.file?.url || block.image?.external?.url;
-        if (imageUrl) {
-          const cachedUrl = await this.cacheImage(imageUrl, block.id);
+      // Handle media blocks (image, audio, video, file)
+      const mediaTypes = ['image', 'audio', 'video', 'file'];
+      if (mediaTypes.includes(block.type)) {
+        const media = block[block.type];
+        const url = media?.file?.url || media?.external?.url;
+
+        if (url) {
+          const cachedUrl = await this.cacheImage(url, block.id);
           if (cachedUrl) {
-            updatedBlock.image = {
-              ...block.image,
+            updatedBlock[block.type] = {
+              ...media,
               type: 'file',
               file: { url: cachedUrl }
             };
           }
         }
+      }
+
+      // Handle nested blocks (recursively)
+      if (block.has_children && block[block.type]?.children) {
+        updatedBlock[block.type] = {
+          ...block[block.type],
+          children: await this.cacheBlockImages(block[block.type].children)
+        };
       }
 
       updatedBlocks.push(updatedBlock);
