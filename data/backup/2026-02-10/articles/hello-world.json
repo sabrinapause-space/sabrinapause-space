@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-02-10T10:45:37.818Z",
+  "backup_date": "2026-02-10T10:46:27.667Z",
   "data": {
     "id": "2fb18eed-3014-8017-bc08-f51d55b87596",
     "contentType": "article",
@@ -21,7 +21,7 @@
     "noise": [],
     "spacePattern": null,
     "timeVelocity": null,
-    "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/39118eed-3014-817f-b614-000386133549/31982021-a2cc-4d03-bca9-7debf2704377/PB170823.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YGCBG3KX%2F20260210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260210T104534Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCPeUD5l0%2Ft3gFv0jIeBli0%2F6SH5Ji6KjVwDAiK11cl2gIgH9%2BLptiRs6lPA9oMpv9nNjiADHiCsHYGg5VXceqqq5gqiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDB2JcaNMhVdjGZkhqircA7GSslFUubGu7c%2B0FiBTGURkAlfX2s4JFztflivZdYWa2tCG7uXgP9c2uha%2FRlMZytkdNK53DCRu1%2FZFY8HF5xxbshzLGCJdnMl5zSphEFw%2BxJm%2B3Qdn4KFuyYnKqYBUOcRHuHLCjRkuUwHx8DkDZuS0nS%2FyH8hkZiNspnUzIV3N%2F6bv002RpqZF6N8XOKCnrLucEsq9kITagG3j2g6T17zkjJV%2FUdaX1hRsCjaedQGhYGlmdceHfF4F8z%2BY8TpJ3oC6aPYvQieQsaTe0v%2B3H0Gl080SZIlbx%2B9cY7GPfrU6daZzIz4hPSrsqQw%2Bn9bxX8T9WGNy1By28GEmutd5iByiiVjYBq9dBJLLV8Cr9kLnsNtu7d0tvw%2Bwlx7tWex%2BnEVc9KAJgL947e3R5nnBqAzHisTOhguMXtiOSCu0%2FWgqMUaHwLuJ1hMzck8%2BL48MSH%2Bg76pYsxoiNFJsmv5l1T5IkYmqjeLT96cCWXgYlQd1CQcc2XMJAVre9NuDqABVkokDMN4c82PbSfHm5gMBq2Dgv0p5pNRYhalWocT8kRPDjJnTfeOoIiwNKpXZIOSX2MmScPIx8mGVI3sMe9HQi%2F%2BiOZPLld9mNy%2BnOpckPYk6UxSQQqzRpGT0gRAiMLP7q8wGOqUBxYG7EpUUP4AyCJeAv%2B%2FOHn8MBrdEqZFlh51OJzvcWjV16P7tG13PSHl4tRSmp5i%2B1IMqQxocnqr%2FydO%2BtJZowqaqPacM9VOecpbI%2FwkTDX6sbaRDhAmZ2BW%2F%2BEwF1nys4HNseMtPLzxA%2BbrJpg6yvGVMTZid4CCS1WJY4fCuBpEr8N5UmluBKoh0UypKpTT9xnsfvRPidHmi8ByxykeNHk5jkh0D&X-Amz-Signature=d762a81f74bdd750403b91a38a649ff0a3f4dffd046d02ee323fbb1362266146&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "heroImage": "https://prod-files-secure.s3.us-west-2.amazonaws.com/39118eed-3014-817f-b614-000386133549/31982021-a2cc-4d03-bca9-7debf2704377/PB170823.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YV2S3FZS%2F20260210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260210T104626Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDHLiBUESThNaAmIN4PxFgx8B6VXH9Yp3EYVRtTHSw7gQIhALs5VUAogu6HOfp8vUhM24%2FzENP6%2FOkqUcsNsJoNk7tlKogECKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igx2rc54kJDe4ZOgmkIq3APTAeqytcLbY9IvKYsZf8ezPendx1OemutDYTKf5c5oQHTaK8iit7Mgln5T2WnQ8DUc7H0IXTj2TQxWeBvpKGFOnRvIdcFbyTyJn4M0GSiJ%2BvSMnfze4cP83BZux%2FbaAQ4uNcgdHtrN4ck7%2BAQpEDzXQnTxoJc142tYiB3rzHnQ%2BEQxW48K6Cr9iICgkMORTDaOBOpWD49uktlPDoYMB7zGnos1qez0LxJutioMYvUhJ2NjE6eeYLO8zLVMpq0JtMrfnFO76Y0mNKh2MXsUuWWY6GQHmcyldd8OEhw6879ML9lNw0JLHOvYEeIT%2FNZE8IMcFL%2BGKaOwtJEXBVpirM6tupv7sYzsx%2F8hjSHmXMRAG4FYEBEY0Yl1BlxZ8Qo523IOpLN6VYtLuQUEg6drqLe5lcfqgfegjJb4OgBTSlPfUBqxva2YiRSD4tLlDBt%2BNNLfPukPQ4qZzvbLv6uSUCl%2BYf2qfPNSdLYzrW8Z6RUKgXAEHvrIGRzFo9dFxsMdkFwsUqaAV783S7uK%2BJA%2FsEawjrwMbvXpLinhLVU0oLmout7GC0vA0lhKEIeQgXxIk8aTvAJwYC1lKhMr1DaAbTiKPSJvBxPmohzKQ3jdYMg8ew2pVDpHTxes9cATlDCO%2BqvMBjqkAWDWuxQILhHgBO%2Bk0c6C2uU%2FOkANPhk8y0w3nlhErUNM9985FD%2Fyt3QXm0e2HHUk6XiSjxFlbGlxTTh7XpGmZ48fyx3ZEO1SU3rVaRshqprrbs04fPsjwY3L%2BtPgBAP4BkpKC%2FzurxWIuTf3PX5EW86jX8wcnGRhhM5wwI%2Bx0eXvJGHwkq8RyJHuX2VpgPI5TTl%2FoWktxC3lVKvGszqV27qFlN5Q&X-Amz-Signature=2ccb3d6c9ec8d1713bad53ef86e4b9f4d59cb41dc5799d51daa45e0e579e5e54&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "blocks": [
       {
         "object": "block",
@@ -4821,7 +4821,7 @@
     "emotion_trajectory": {},
     "embedding": null,
     "schema_version": "1.0",
-    "last_updated": "2026-02-10T10:45:37.812Z",
+    "last_updated": "2026-02-10T10:46:27.659Z",
     "language": "en",
     "excerpt": "Here is a podcast script structured as a dialogue between two intellectuals, following the specific flow and metaphors from your source material.",
     "readingTime": 9
