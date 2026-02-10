@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "backup_date": "2026-02-10T10:46:27.671Z",
+  "backup_date": "2026-02-10T21:47:45.464Z",
   "backup_source": "Notion API",
   "total_count": 3,
   "content_types": {
@@ -25,27 +25,27 @@
       "title": "Hello World: My first Post",
       "type": "article",
       "date": "",
-      "sd_index": 0
+      "sd_index": 5
     },
     {
       "slug": "ep1-philosophy",
       "title": "EP1.:philosophy of pause",
       "type": "podcast",
       "date": "",
-      "sd_index": 0
+      "sd_index": 5
     },
     {
       "slug": "wine-journey-01",
       "title": "The Wine Journey Begins",
       "type": "comic",
       "date": "",
-      "sd_index": 0
+      "sd_index": 5
     }
   ],
   "agi_ready": {
     "with_embeddings": 0,
     "with_dialogue": 0,
     "with_philosophical_insight": 0,
-    "total_blocks": 92
+    "total_blocks": 93
   }
 }
