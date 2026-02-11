@@ -34,9 +34,15 @@ async function generateBackup() {
 
     console.log('\n✨ Backup generation complete!');
 
-    // Auto-commit to GitHub
-    console.log('\n📦 Committing backup to GitHub...');
-    await autoCommitBackup();
+    // Auto-commit to GitHub (Skip in CI/Vercel)
+    const isCI = process.env.CI === 'true' || process.env.VERCEL === '1';
+
+    if (isCI) {
+      console.log('\n⏭️ CI environment detected, skipping GitHub commit.');
+    } else {
+      console.log('\n📦 Committing backup to GitHub...');
+      await autoCommitBackup();
+    }
 
   } catch (error) {
     console.error('\n❌ Backup generation failed:');
