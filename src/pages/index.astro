@@ -167,27 +167,32 @@ const categories = [...new Set(allContent.map(c => c.webCategory).filter(Boolean
 </Layout>
 
 <script>
-  // Content filtering
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const filter = btn.getAttribute('data-filter');
-      
-      // Update active button
-      document.querySelectorAll('.filter-btn').forEach(b => {
-        b.classList.remove('active', 'bg-neutral-900', 'text-white');
-        b.classList.add('bg-neutral-100', 'text-neutral-700');
-      });
-      btn.classList.add('active', 'bg-neutral-900', 'text-white');
-      btn.classList.remove('bg-neutral-100', 'text-neutral-700');
-      
-      // Filter content
-      document.querySelectorAll('.content-item').forEach(item => {
-        if (filter === 'all' || item.getAttribute('data-category') === filter) {
-          (item as HTMLElement).style.display = 'block';
-        } else {
-          (item as HTMLElement).style.display = 'none';
-        }
+  function setupFilters() {
+    // Content filtering
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-filter');
+        
+        // Update active button
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.classList.remove('active', 'bg-neutral-900', 'text-white');
+          b.classList.add('bg-neutral-100', 'text-neutral-700');
+        });
+        btn.classList.add('active', 'bg-neutral-900', 'text-white');
+        btn.classList.remove('bg-neutral-100', 'text-neutral-700');
+        
+        // Filter content
+        document.querySelectorAll('.content-item').forEach(item => {
+          if (filter === 'all' || item.getAttribute('data-category') === filter) {
+            (item as HTMLElement).style.display = 'block';
+          } else {
+            (item as HTMLElement).style.display = 'none';
+          }
+        });
       });
     });
-  });
+  }
+
+  // Run on initial load and on every page navigation
+  document.addEventListener('astro:page-load', setupFilters);
 </script>
