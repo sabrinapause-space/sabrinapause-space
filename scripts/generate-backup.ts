@@ -34,10 +34,11 @@ async function generateBackup() {
 
     console.log('\n✨ Backup generation complete!');
 
-    // Auto-commit to GitHub (Skip in CI/Vercel)
+    // Auto-commit to GitHub (Skip in CI/Vercel unless SYNC_MODE is enabled)
     const isCI = process.env.CI === 'true' || process.env.VERCEL === '1';
+    const isSyncMode = process.env.SYNC_MODE === 'true';
 
-    if (isCI) {
+    if (isCI && !isSyncMode) {
       console.log('\n⏭️ CI environment detected, skipping GitHub commit.');
     } else {
       console.log('\n📦 Committing backup to GitHub...');

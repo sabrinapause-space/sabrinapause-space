@@ -57,17 +57,22 @@ NOTION_API_KEY=secret_xxxxxxxxxxxxxxxx
 NOTION_DATABASE_ID=xxxxxxxxxxxxxxxxxxx
 ```
 
-### The "Sabrina Setup" (Vercel)
+### The "Sabrina Setup" (Vercel & Automation)
 To enable the automated publishing pipeline:
-1.  **Production**: Add `NOTION_API_KEY` and `NOTION_DATABASE_ID` to Vercel Environment Variables.
-2.  **Automation**: The build will automatically skip Git commits in Vercel while mirroring assets locally.
+1.  **Vercel Hosting**: Add `NOTION_API_KEY` and `NOTION_DATABASE_ID` to Vercel Environment Variables.
+2.  **Automated Sync (GitHub Actions)**:
+    -   Go to your repository on GitHub → **Settings** → **Secrets and variables** → **Actions**.
+    -   Add two Repository Secrets:
+        -   `NOTION_API_KEY`: Your integration token.
+        -   `NOTION_DATABASE_ID`: Your database ID.
+    -   The system will now automatically sync every hour and redeploy your site.
 
 ### Commands
 | Command | Action |
 | :--- | :--- |
 | `npm run dev` | Live preview (Notion-direct, high frequency) |
 | `npm run build` | **Full Pipeline**: Backup → Image Sync → Static Build → Notion Status Update |
-| `npm run test` | Verify Notion connection & sensor mapping |
+| `npm run sync` | (Internal) Used by GitHub Actions to auto-publish |
 
 ---
 

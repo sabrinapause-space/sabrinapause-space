@@ -1,0 +1,50 @@
+name: Content Sync (Notion -> GitHub)
+
+on:
+  schedule:
+    # Runs every 1 hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Allows manual trigger from the Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build and Sync
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          SYNC_MODE: 'true'
+          CI: 'true'
+        run: |
+          # Configure Git for the CI user
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Run the full production build pipeline
+          # This will: backup -> cache images -> build -> commit & push backups -> update Notion status
+          npm run build
+
+      - name: Final Push (Safety Check)
+        if: success()
+        run: |
+          # The script handled the commit, but we ensure any remaining changes (like image cache) are pushed
+          git push origin main || echo "Nothing to push"

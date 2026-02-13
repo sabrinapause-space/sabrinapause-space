@@ -10,7 +10,8 @@
     "test": "node tests/notion-connection.test.js",
     "backup": "tsx scripts/generate-backup.ts",
     "cache-images": "tsx scripts/cache-images.ts",
-    "publish-status": "tsx scripts/auto-publish-status.ts"
+    "publish-status": "tsx scripts/auto-publish-status.ts",
+    "sync": "npm run build"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.15",
