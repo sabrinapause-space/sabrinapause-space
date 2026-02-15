@@ -1,0 +1,299 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-02-15T05:13:14.974Z",
+  "data": {
+    "id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367",
+    "contentType": "comic",
+    "title": "The Wine Journey Begins",
+    "date": "",
+    "slug": "wine-journey-01",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Episodes",
+    "project": [],
+    "concepts": [],
+    "intentVector": [],
+    "sdIndex": 5,
+    "Intent_Marker": [],
+    "lux": 0,
+    "texture": "",
+    "noise": [],
+    "spacePattern": null,
+    "timeVelocity": null,
+    "heroImage": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367.jpg",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80eb-8e26-eb454401cef3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:25:00.000Z",
+        "last_edited_time": "2026-02-03T00:25:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-1.jpg"
+          }
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-809d-ae24-f2bf7c13a283",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:24:00.000Z",
+        "last_edited_time": "2026-02-03T00:24:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d2-ae33-ff64eac5ef8f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:25:00.000Z",
+        "last_edited_time": "2026-02-03T00:25:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-2.jpg"
+          }
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80aa-87e4-ffc018fe925d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:25:00.000Z",
+        "last_edited_time": "2026-02-03T00:25:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-3.jpg"
+          }
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-809b-9af0-dafa596f8b33",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:23:00.000Z",
+        "last_edited_time": "2026-02-03T00:23:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a7-bc78-d360de206be9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:25:00.000Z",
+        "last_edited_time": "2026-02-03T00:25:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-4.jpg"
+          }
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80f1-949d-d5c1b8937b00",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-03T00:26:00.000Z",
+        "last_edited_time": "2026-02-03T00:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-5.jpg"
+          }
+        }
+      },
+      {
+        "object": "block",
+        "id": "30018eed-3014-8043-995c-e7d0f198d461",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367"
+        },
+        "created_time": "2026-02-07T08:18:00.000Z",
+        "last_edited_time": "2026-02-07T08:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "schema_version": "1.0",
+    "last_updated": "2026-02-15T05:13:14.574Z",
+    "language": "en",
+    "episodeNumber": 1,
+    "panels": [
+      {
+        "panelNumber": 1,
+        "imageUrl": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-1.jpg",
+        "width": 800,
+        "height": 600,
+        "altText": "",
+        "narration": ""
+      },
+      {
+        "panelNumber": 2,
+        "imageUrl": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-2.jpg",
+        "width": 800,
+        "height": 600,
+        "altText": ""
+      },
+      {
+        "panelNumber": 3,
+        "imageUrl": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-3.jpg",
+        "width": 800,
+        "height": 600,
+        "altText": "",
+        "narration": ""
+      },
+      {
+        "panelNumber": 4,
+        "imageUrl": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-4.jpg",
+        "width": 800,
+        "height": 600,
+        "altText": ""
+      },
+      {
+        "panelNumber": 5,
+        "imageUrl": "/images/2fc18eed-3014-80a2-b7f1-fc3945ba4367-panel-5.jpg",
+        "width": 800,
+        "height": 600,
+        "altText": "",
+        "narration": ""
+      }
+    ]
+  }
+}
