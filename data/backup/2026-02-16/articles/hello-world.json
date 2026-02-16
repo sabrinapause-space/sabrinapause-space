@@ -1,0 +1,4829 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-02-16T05:23:29.242Z",
+  "data": {
+    "id": "2fb18eed-3014-8017-bc08-f51d55b87596",
+    "contentType": "article",
+    "title": "Hello World: My first Post",
+    "date": "",
+    "slug": "hello-world",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Journal",
+    "project": [],
+    "concepts": [],
+    "intentVector": [],
+    "sdIndex": 5,
+    "Intent_Marker": [],
+    "lux": 0,
+    "texture": "",
+    "noise": [],
+    "spacePattern": null,
+    "timeVelocity": null,
+    "heroImage": "/images/2fb18eed-3014-8017-bc08-f51d55b87596.jpg",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8028-9e71-c6debc042d4a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Here is a podcast script structured as a dialogue between two intellectuals, following the specific flow and metaphors from your source material.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Here is a podcast script structured as a dialogue between two intellectuals, following the specific flow and metaphors from your source material.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80ef-bca4-f3d5f4f7339f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80fb-8c71-ff34336e6c88",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Podcast Title:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Podcast Title:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The Bottle & The Rain ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The Bottle & The Rain ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Episode:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Episode:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " When Vines Learn to Speak Japanese",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " When Vines Learn to Speak Japanese",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8081-86a3-f40f1ef042c0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(Sound effect: The sound of steady, heavy rain falling on pavement, fading into a jazz background track)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(Sound effect: The sound of steady, heavy rain falling on pavement, fading into a jazz background track)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80b8-8d3e-ea5956c026ed",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " So, I want to start with a very specific, very uncomfortable image.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " So, I want to start with a very specific, very uncomfortable image.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80f3-939f-fbfd4d3d0a93",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Okay, I’m listening.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Okay, I’m listening.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-809f-be48-daa323ac473e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Imagine it’s June in Kyoto. You’re in a small apartment. The humidity is hovering around 80%. You haven’t seen the sun in two weeks. And you go to your closet to pick out a pair of shoes, and you realize... they’re covered in green fuzz.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Imagine it’s June in Kyoto. You’re in a small apartment. The humidity is hovering around 80%. You haven’t seen the sun in two weeks. And you go to your closet to pick out a pair of shoes, and you realize... they’re covered in green fuzz.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80ef-9930-c4082bc95c72",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " (Laughs) Oh, the mold. The famous Japanese rainy season mold.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " (Laughs) Oh, the mold. The famous Japanese rainy season mold.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8086-9c8a-f9b14d8ec4aa",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Exactly. It’s that visceral, sticky feeling where nothing dries. And the author of this new book—",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Exactly. It’s that visceral, sticky feeling where nothing dries. And the author of this new book—",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "When Vines Learn to Speak Japanese",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "When Vines Learn to Speak Japanese",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "—uses that exact image of \"moldy shoes\" to make a brilliant point. He says we usually think of wine regions as romantic, sun-drenched hills in Tuscany or Napa. But in Japan, the vine is asking the exact same question the human is: \"How am I supposed to survive in this damp hell?\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "—uses that exact image of \"moldy shoes\" to make a brilliant point. He says we usually think of wine regions as romantic, sun-drenched hills in Tuscany or Napa. But in Japan, the vine is asking the exact same question the human is: \"How am I supposed to survive in this damp hell?\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d2-85b9-e05d28214196",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That’s such a powerful hook. It reframes the whole narrative. It’s not about romance; it’s about survival.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That’s such a powerful hook. It reframes the whole narrative. It’s not about romance; it’s about survival.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a6-8aa8-f9634b1805e0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Precisely. The book argues that the story of Japanese wine isn't about copying France. It’s about a 140-year-long battle with humidity. And to understand that, we have to talk about the \"Three Failures.\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Precisely. The book argues that the story of Japanese wine isn't about copying France. It’s about a 140-year-long battle with humidity. And to understand that, we have to talk about the \"Three Failures.\"",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80fc-8393-dab21d2a5bf4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The \"Three Failures.\" It sounds like a tragedy.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The \"Three Failures.\" It sounds like a tragedy.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80ff-9bf4-ed45f576319b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "is",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "is",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " a tragedy. The first failure is heartbreaking. Go back to the 1870s, the Meiji Restoration. Japan is modernizing, right? So the government sends two former Samurai—literal Samurai—to Bordeaux.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " a tragedy. The first failure is heartbreaking. Go back to the 1870s, the Meiji Restoration. Japan is modernizing, right? So the government sends two former Samurai—literal Samurai—to Bordeaux.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-801e-98ae-ee1412bd796d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " From swords to secateurs.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " From swords to secateurs.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8044-a514-ec4baa8ab9e1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " They spend two years there. They learn ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " They spend two years there. They learn ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "everything",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "everything",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". Pruning, fermentation, barrels. They take meticulous notes. They bring back Cabernet Sauvignon vines, the best of France. They plant them in Yamanashi with absolute confidence. And then... June happens.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". Pruning, fermentation, barrels. They take meticulous notes. They bring back Cabernet Sauvignon vines, the best of France. They plant them in Yamanashi with absolute confidence. And then... June happens.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8032-98c6-e252fbaef8a5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The rain.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The rain.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-805c-a26b-d6b7948fe3f1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The rain. Three weeks of non-stop rain. The vines get downy mildew, the grapes rot on the vine before they can ripen. They all died. One of the samurai, Masana Maeda, wrote something devastating: \"We learned the French technique, but we don't have the French sky\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The rain. Three weeks of non-stop rain. The vines get downy mildew, the grapes rot on the vine before they can ripen. They all died. One of the samurai, Masana Maeda, wrote something devastating: \"We learned the French technique, but we don't have the French sky\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80cb-87d3-d13f6233568c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That is tragic. It’s the realization that you can’t just copy-paste culture or agriculture. So, what was the second failure?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That is tragic. It’s the realization that you can’t just copy-paste culture or agriculture. So, what was the second failure?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80f1-8177-d66d4472beab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The Compromise. This was the early 1900s. Since the European vines died, they switched to an American grape called \"Delaware.\" It’s tough, it has thick skin, it survives the rain. But... it tastes like grape juice.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The Compromise. This was the early 1900s. Since the European vines died, they switched to an American grape called \"Delaware.\" It’s tough, it has thick skin, it survives the rain. But... it tastes like grape juice.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80ad-8775-ebe956104664",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Right, it’s that \"foxy\" flavor, very sweet.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Right, it’s that \"foxy\" flavor, very sweet.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-803a-9c5f-d6fcda613ab7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Exactly. For fifty years, Japanese wine was basically alcoholized fruit juice. It created this deep national inferiority complex. They felt, \"We can never make real wine.\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Exactly. For fifty years, Japanese wine was basically alcoholized fruit juice. It created this deep national inferiority complex. They felt, \"We can never make real wine.\"",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802d-9bab-df11e46bd659",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " So how do you get from that complex to actually making world-class wine?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " So how do you get from that complex to actually making world-class wine?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8030-8aea-cc2d59604ab9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " You need a madman. Or a genius. Enter Zenbei Kawakami in the 1920s. This is the third \"failure\" that turned into a miracle. He decided to stop copying Europe and stop settling for America. He started cross-breeding them.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " You need a madman. Or a genius. Enter Zenbei Kawakami in the 1920s. This is the third \"failure\" that turned into a miracle. He decided to stop copying Europe and stop settling for America. He started cross-breeding them.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8099-acaf-c8b03b69ea90",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Hybridization.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Hybridization.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8095-911b-d8cfe2415f18",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " He did it 10,000 times. Imagine that. 10,000 experiments. Most failed. But out of that obsession came \"Muscat Bailey A\" (MBA). It smells like strawberries, it’s light, it’s soft. And for the first time, it didn't taste like a bad copy of Bordeaux. It tasted like Japan.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " He did it 10,000 times. Imagine that. 10,000 experiments. Most failed. But out of that obsession came \"Muscat Bailey A\" (MBA). It smells like strawberries, it’s light, it’s soft. And for the first time, it didn't taste like a bad copy of Bordeaux. It tasted like Japan.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d3-a2aa-c4821271590d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It’s like the vines finally learned the language.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It’s like the vines finally learned the language.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8057-977b-edb2cd7b99f3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Exactly. But here is the twist. Even with these grapes, for decades, the industry was hiding a dirty secret. And this leads us to the climax of the story: 2015.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Exactly. But here is the twist. Even with these grapes, for decades, the industry was hiding a dirty secret. And this leads us to the climax of the story: 2015.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-808e-9f35-fb6d28bf95fb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The year of the law change.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The year of the law change.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8057-a75c-d281488f3248",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Yes. Before 2015, if you bought a bottle that said \"Japanese Wine,\" you might have actually been drinking concentrated grape juice imported from South America, re-hydrated and fermented in Japan.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Yes. Before 2015, if you bought a bottle that said \"Japanese Wine,\" you might have actually been drinking concentrated grape juice imported from South America, re-hydrated and fermented in Japan.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80fc-a1cc-e5a3862d794f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Wait, that was legal?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Wait, that was legal?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8081-906b-f4d45527f352",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Completely legal. It was called \"Domestic Wine.\" It was a safe way to avoid the risks of the Japanese climate. But in 2015, the government finally drew a line in the sand. They created the \"Japanese Wine\" (Nihon Wine) label. To use it, the wine must be 100% Japanese grown and fermented.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Completely legal. It was called \"Domestic Wine.\" It was a safe way to avoid the risks of the Japanese climate. But in 2015, the government finally drew a line in the sand. They created the \"Japanese Wine\" (Nihon Wine) label. To use it, the wine must be 100% Japanese grown and fermented.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8086-9281-c5044de44d08",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That’s the \"Identity Card\" the author talks about.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That’s the \"Identity Card\" the author talks about.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802f-9abe-d2d04a57ea51",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It changed everything. It forced winemakers to stop hiding behind imported grapes and actually face their own terroir—rain, humidity, and all.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It changed everything. It forced winemakers to stop hiding behind imported grapes and actually face their own terroir—rain, humidity, and all.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802b-ace7-c4a920f45347",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " And that brings us back to that philosophical point about the rain.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " And that brings us back to that philosophical point about the rain.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8085-b65e-fbf13948ba9c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The \"Terroir of Humidity.\" The author wraps it up so beautifully. He says the unique character of Japanese wine—its high acidity, its lightness, that clean, restrained quality—is actually a gift from the rain.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The \"Terroir of Humidity.\" The author wraps it up so beautifully. He says the unique character of Japanese wine—its high acidity, its lightness, that clean, restrained quality—is actually a gift from the rain.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a1-b6d1-ca893e1182fa",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Because the vines are struggling?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Because the vines are struggling?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8079-b137-c9fc05e6f608",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Because the limit ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Because the limit ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "is",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "is",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " the style. The humidity forces the farmers to be obsessive—putting little paper hats on grapes, crafting these insane trellis systems. The resulting wine isn't loud like a Napa Cab. It’s quiet. It’s like the sound of rain in Kyoto.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " the style. The humidity forces the farmers to be obsessive—putting little paper hats on grapes, crafting these insane trellis systems. The resulting wine isn't loud like a Napa Cab. It’s quiet. It’s like the sound of rain in Kyoto.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-809a-b4d9-ec4cc00b285e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " \"Acidic, restrained, but clean enough to make you feel at ease\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " \"Acidic, restrained, but clean enough to make you feel at ease\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8076-a5bb-cc18d9bd3991",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That’s it. It’s the story of a nation stopping the attempt to be \"Better France\" and finally being \"Honest Japan.\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That’s it. It’s the story of a nation stopping the attempt to be \"Better France\" and finally being \"Honest Japan.\"",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-801f-bcf1-f2b0c8db5fa7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(Music swells)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(Music swells)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8089-b409-d04ca92d46c5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Fascinating. So next time it rains in June, I’ll try to think of it as flavor development.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Fascinating. So next time it rains in June, I’ll try to think of it as flavor development.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80cd-8d86-f7caaf980e2b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " (Laughs) Just keep your shoes in a dry box.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " (Laughs) Just keep your shoes in a dry box.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d4-905d-cdab2ee04c39",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80aa-a687-c0d0e8047aa4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Here is the expanded podcast script, continuing directly from the previous \"Honest Japan\" segment. It incorporates the sensory tasting of Muscat Bailey A (MBA), the specific food pairings, and the teaser for the four regions.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Here is the expanded podcast script, continuing directly from the previous \"Honest Japan\" segment. It incorporates the sensory tasting of Muscat Bailey A (MBA), the specific food pairings, and the teaser for the four regions.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8069-b2e9-d49a69237397",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-803c-8604-c9257ba4485f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(...continuing from the philosophical realization about the \"Terroir of Humidity\")",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(...continuing from the philosophical realization about the \"Terroir of Humidity\")",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8036-b0fb-c34a5e62b17d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It’s a beautiful concept—that the rain isn't an enemy, but an ingredient. But I need to ask... what does that actually ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It’s a beautiful concept—that the rain isn't an enemy, but an ingredient. But I need to ask... what does that actually ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "taste",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "taste",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " like? We’ve talked a lot about history and philosophy. Can we drink now?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " like? We’ve talked a lot about history and philosophy. Can we drink now?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-803a-881e-ed71a1882a0f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " (Laughs) I was hoping you’d say that. I actually opened a bottle about twenty minutes ago to let it breathe. This is a 2018 Muscat Bailey A, or MBA, from a producer in Yamagata.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " (Laughs) I was hoping you’d say that. I actually opened a bottle about twenty minutes ago to let it breathe. This is a 2018 Muscat Bailey A, or MBA, from a producer in Yamagata.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8083-a80f-c4bf1c4856a6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(Sound effect: Wine being poured into a glass)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(Sound effect: Wine being poured into a glass)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d7-832f-d137634405cc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Okay, look at that color. It’s not that deep, inky purple you see in Bordeaux. It’s... lighter. Almost like a dark hibiscus tea or a bright ruby.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Okay, look at that color. It’s not that deep, inky purple you see in Bordeaux. It’s... lighter. Almost like a dark hibiscus tea or a bright ruby.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80df-adfa-ec0ad56c960e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Exactly. Now, don't be shy. Stick your nose in there. What’s the first thing that hits you?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Exactly. Now, don't be shy. Stick your nose in there. What’s the first thing that hits you?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-807f-b053-ff30431f71a8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " (Sniffs) Wow. Okay, this is going to sound childish, but... strawberries? Like, really ripe strawberries. And maybe... cotton candy?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " (Sniffs) Wow. Okay, this is going to sound childish, but... strawberries? Like, really ripe strawberries. And maybe... cotton candy?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80da-966c-f4afde33ab85",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Yes! \"Strawberry candy\" and \"marshmallow\" are the classic descriptors for MBA. For decades, wine snobs looked down on this grape because it smelled \"fake\" or too sweet. They called it \"confectionary.\" But here is the trick. Take a sip.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Yes! \"Strawberry candy\" and \"marshmallow\" are the classic descriptors for MBA. For decades, wine snobs looked down on this grape because it smelled \"fake\" or too sweet. They called it \"confectionary.\" But here is the trick. Take a sip.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802b-b417-cd8fd8efb12f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(Sound effect: Slurping/tasting sound)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(Sound effect: Slurping/tasting sound)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80cd-adce-e8c70a9a1018",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " ...Oh. Wait. It’s dry.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " ...Oh. Wait. It’s dry.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8001-9ada-c48e67d11e93",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " (Smiling) Surprised?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " (Smiling) Surprised?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8035-bd7b-fc2a39992c47",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Completely. The nose promised me sugar, but the palate is... savory. It’s light, the tannins are super soft, almost silky. And there’s this finish... it’s not fruit. It’s earthy.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Completely. The nose promised me sugar, but the palate is... savory. It’s light, the tannins are super soft, almost silky. And there’s this finish... it’s not fruit. It’s earthy.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80d1-bea1-edd0f8af93d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That’s the \"scent of rain\" we talked about. That wet earth, that clean acidity. This is why post-2015 MBA is so exciting. The winemakers stopped trying to mask it with heavy oak. They let that \"cotton candy\" aroma float over a backbone of refreshing acidity.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That’s the \"scent of rain\" we talked about. That wet earth, that clean acidity. This is why post-2015 MBA is so exciting. The winemakers stopped trying to mask it with heavy oak. They let that \"cotton candy\" aroma float over a backbone of refreshing acidity.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80ea-9059-f364378b582b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It’s incredibly drinkable. It doesn’t demand your attention like a heavy Cabernet. It’s gentle.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It’s incredibly drinkable. It doesn’t demand your attention like a heavy Cabernet. It’s gentle.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80e1-a8b4-e0e304134dbe",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " And that gentleness is exactly why it’s the ultimate food wine for Japan. Think about Japanese food—Soy sauce, Dashi, Mirin. These are delicate, umami-rich flavors. If you pair a heavy, tannic Napa Cabernet with Yakitori (grilled chicken), the wine destroys the food. It’s a car crash.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " And that gentleness is exactly why it’s the ultimate food wine for Japan. Think about Japanese food—Soy sauce, Dashi, Mirin. These are delicate, umami-rich flavors. If you pair a heavy, tannic Napa Cabernet with Yakitori (grilled chicken), the wine destroys the food. It’s a car crash.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80c8-ae0c-dcd04798e42d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " But this...",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " But this...",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8029-86ba-daf2b7120747",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " This MBA? It doesn't fight. It dances. The strawberry note complements the sweet soy glaze (tare) on the Yakitori. The high acidity cuts through the fat of the chicken skin. It’s like a folk song—unpretentious, but it hits you right in the heart.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " This MBA? It doesn't fight. It dances. The strawberry note complements the sweet soy glaze (tare) on the Yakitori. The high acidity cuts through the fat of the chicken skin. It’s like a folk song—unpretentious, but it hits you right in the heart.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-805d-997f-cfda74f0ce82",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " \"A folk song.\" I like that. It feels like we’ve finally met the character of the land. So, we’ve tasted the history. We understand the struggle. Where do we go from here?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " \"A folk song.\" I like that. It feels like we’ve finally met the character of the land. So, we’ve tasted the history. We understand the struggle. Where do we go from here?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a8-aa8e-e25e052937e1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Well, the book is structured as a journey, a \"Longitudinal\" trip from South to North. We can’t stay in this studio. We need to go to the source.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Well, the book is structured as a journey, a \"Longitudinal\" trip from South to North. We can’t stay in this studio. We need to go to the source.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80b3-bc87-d08ce741b860",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " So, pack our bags. What’s the itinerary?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " So, pack our bags. What’s the itinerary?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-803a-8294-d37c782b916f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " First, we’re going to the \"Heartland\"—",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " First, we’re going to the \"Heartland\"—",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Yamanashi",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Yamanashi",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". We’re going to stand in that humid basin, visit 130-year-old vines, and see the temples where this all started.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". We’re going to stand in that humid basin, visit 130-year-old vines, and see the temples where this all started.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80b3-9dd5-d9cb42424b9a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " And after the heat?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " And after the heat?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802d-9962-df16700b050c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Then we climb. We go to ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Then we climb. We go to ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Nagano",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Nagano",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", to the \"Sky.\" High plateaus, European ambitions. We’ll see if Japan can really beat France at its own game with Merlot.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", to the \"Sky.\" High plateaus, European ambitions. We’ll see if Japan can really beat France at its own game with Merlot.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8054-97ab-eaa3ee5da625",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " That sounds intense.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " That sounds intense.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80aa-aadb-d0ec71bfe174",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It is. But then we head to the hidden gem, ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It is. But then we head to the hidden gem, ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Yamagata",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Yamagata",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", the home of this MBA we’re drinking, to understand that \"underestimated tenderness\".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", the home of this MBA we’re drinking, to understand that \"underestimated tenderness\".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a7-ab7a-fa1fb5cc0e36",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " And the finale?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " And the finale?",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-806c-9ded-e232227df68e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The finale is the frontier. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The finale is the frontier. ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Hokkaido",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Hokkaido",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". The snow country. We’re going to see farmers literally burying their grapevines under the snow to survive the winter. We’ll taste the Pinot Noir that the whole world is hunting for right now.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". The snow country. We’re going to see farmers literally burying their grapevines under the snow to survive the winter. We’ll taste the Pinot Noir that the whole world is hunting for right now.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-80a8-a95e-dadc633b9d1d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host B:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host B:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " From humid basins to snow-covered vineyards.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " From humid basins to snow-covered vineyards.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-805c-9d11-db38ad515a04",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Host A:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Host A:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Exactly. It’s going to be a long trip. But I promise you, by the end of it, you’ll never look at a \"moldy shoe\" the same way again.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Exactly. It’s going to be a long trip. But I promise you, by the end of it, you’ll never look at a \"moldy shoe\" the same way again.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802d-b746-c24569127449",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(Theme music swells and fades out)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(Theme music swells and fades out)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-802a-a4c0-cc411bdd1d62",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:13:00.000Z",
+        "last_edited_time": "2026-02-03T00:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+      },
+      {
+        "object": "block",
+        "id": "2fc18eed-3014-8057-a522-d60270dd2d8e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-03T00:12:00.000Z",
+        "last_edited_time": "2026-02-03T00:12:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "30018eed-3014-8022-898e-c1fd7b2a33f0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-07T07:53:00.000Z",
+        "last_edited_time": "2026-02-07T07:53:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "30018eed-3014-8050-a21f-e48731c89eb0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-07T07:55:00.000Z",
+        "last_edited_time": "2026-02-07T07:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "300d872b-594c-8174-937a-00021c16d1b1"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "30018eed-3014-8059-8bb7-d69f2101f5bf",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2fb18eed-3014-8017-bc08-f51d55b87596"
+        },
+        "created_time": "2026-02-07T13:41:00.000Z",
+        "last_edited_time": "2026-02-07T13:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "f66795a0-d9b1-42ae-b053-c8bbc99d27aa"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "f66795a0-d9b1-42ae-b053-c8bbc99d27aa"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        }
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "schema_version": "1.0",
+    "last_updated": "2026-02-16T05:23:29.234Z",
+    "language": "en",
+    "excerpt": "Here is a podcast script structured as a dialogue between two intellectuals, following the specific flow and metaphors from your source material.",
+    "readingTime": 8
+  }
+}
