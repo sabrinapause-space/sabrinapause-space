@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-02-18T15:09:29.256Z",
+  "backup_date": "2026-02-18T18:03:53.833Z",
   "data": {
     "id": "2fc18eed-3014-80a2-b7f1-fc3945ba4367",
     "contentType": "comic",
@@ -262,7 +262,7 @@
     "emotion_trajectory": {},
     "embedding": null,
     "schema_version": "1.0",
-    "last_updated": "2026-02-18T15:09:24.310Z",
+    "last_updated": "2026-02-18T18:03:52.701Z",
     "language": "en",
     "episodeNumber": 1,
     "panels": [
