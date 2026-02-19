@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-02-19T18:09:16.288Z",
+  "backup_date": "2026-02-19T19:55:14.209Z",
   "count": 3,
   "data": [
     {
@@ -4823,7 +4823,7 @@
       "emotion_trajectory": {},
       "embedding": null,
       "schema_version": "1.0",
-      "last_updated": "2026-02-19T18:09:16.285Z",
+      "last_updated": "2026-02-19T19:55:13.805Z",
       "language": "en",
       "excerpt": "Here is a podcast script structured as a dialogue between two intellectuals, following the specific flow and metaphors from your source material.",
       "readingTime": 8,
@@ -5017,7 +5017,7 @@
       "emotion_trajectory": {},
       "embedding": null,
       "schema_version": "1.0",
-      "last_updated": "2026-02-19T18:09:14.421Z",
+      "last_updated": "2026-02-19T19:55:14.206Z",
       "language": "en",
       "audioFiles": [
         {
@@ -5304,7 +5304,7 @@
       "emotion_trajectory": {},
       "embedding": null,
       "schema_version": "1.0",
-      "last_updated": "2026-02-19T18:09:14.250Z",
+      "last_updated": "2026-02-19T19:55:13.186Z",
       "language": "en",
       "episodeNumber": 1,
       "panels": [
