@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-02-22T07:28:40.872Z",
+  "backup_date": "2026-02-22T08:00:24.814Z",
   "data": {
     "id": "2fc18eed-3014-8020-b11e-d5c81bbf1222",
     "contentType": "podcast",
@@ -188,7 +188,7 @@
     "emotion_trajectory": {},
     "embedding": null,
     "schema_version": "1.0",
-    "last_updated": "2026-02-22T07:28:40.398Z",
+    "last_updated": "2026-02-22T08:00:24.365Z",
     "language": "en",
     "audioFiles": [
       {
