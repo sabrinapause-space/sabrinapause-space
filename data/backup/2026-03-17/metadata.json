@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
-  "backup_date": "2026-03-17T06:36:07.775Z",
+  "backup_date": "2026-03-17T07:47:17.236Z",
   "backup_source": "Notion API",
-  "total_count": 15,
+  "total_count": 17,
   "content_types": {
-    "article": 15,
+    "article": 17,
     "comic": 0,
     "podcast": 0
   },
@@ -15,8 +15,8 @@
   "projects": [],
   "all_concepts": [],
   "date_range": {
-    "earliest": "2025-02-26",
-    "latest": "2026-03-11"
+    "earliest": "",
+    "latest": "2026-03-17"
   },
   "content_index": [
     {
@@ -123,13 +123,27 @@
       "type": "article",
       "date": "2026-03-09",
       "sd_index": 5
+    },
+    {
+      "slug": "gap-between-magazine-and-screen",
+      "title": "The Gap Between the Magazine and the Screen",
+      "type": "article",
+      "date": "2026-03-17",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "what_lives_here",
+      "title": "What Lives Here",
+      "type": "article",
+      "date": "",
+      "sd_index": 5.5
     }
   ],
   "agi_ready": {
     "with_embeddings": 0,
     "with_dialogue": 0,
     "with_philosophical_insight": 0,
-    "total_blocks": 126
+    "total_blocks": 128
   },
   "m3_terroir": {
     "with_ptv": 1,
