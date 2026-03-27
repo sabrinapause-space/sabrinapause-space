@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-03-27T18:08:02.203Z",
+  "backup_date": "2026-03-27T19:14:03.910Z",
   "count": 17,
   "data": [
     {
@@ -65,6 +65,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -109,6 +110,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -153,6 +155,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -197,6 +200,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -241,6 +245,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -285,6 +290,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -386,6 +392,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -430,6 +437,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -474,6 +482,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -518,6 +527,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -562,6 +572,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -629,6 +640,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -724,6 +736,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -768,6 +781,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -812,6 +826,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -907,6 +922,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -974,6 +990,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1018,6 +1035,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1062,6 +1080,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1106,6 +1125,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1150,6 +1170,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1176,6 +1197,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1202,6 +1224,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1228,7 +1251,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.235Z",
+      "last_updated": "2026-03-27T19:14:03.400Z",
       "language": "en",
       "excerpt": "The Mirror Question",
       "readingTime": 3,
@@ -1335,6 +1358,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1481,6 +1505,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1559,6 +1584,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1637,6 +1663,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1715,6 +1742,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1741,6 +1769,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1761,7 +1790,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.947Z",
+      "last_updated": "2026-03-27T19:14:03.335Z",
       "language": "en",
       "excerpt": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replac",
       "readingTime": 1,
@@ -1902,6 +1931,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -1980,6 +2010,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2058,6 +2089,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2204,6 +2236,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2282,6 +2315,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2462,6 +2496,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2506,6 +2541,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2526,7 +2562,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.043Z",
+      "last_updated": "2026-03-27T19:14:03.906Z",
       "language": "en",
       "excerpt": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the Sabrina’s Pause project, we look at something far more insi",
       "readingTime": 2,
@@ -2599,6 +2635,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2677,6 +2714,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2738,6 +2776,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2782,6 +2821,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2894,6 +2934,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -2972,6 +3013,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3016,6 +3058,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3042,6 +3085,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3062,7 +3106,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.107Z",
+      "last_updated": "2026-03-27T19:14:03.326Z",
       "language": "en",
       "excerpt": "Walking through the digital landscape of 2026 feels like walking through a high-end shopping mall in Singapore: everything is clean, everything is polite, and everything is fundamentally sterile. The ",
       "readingTime": 2,
@@ -3135,6 +3179,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3213,6 +3258,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3359,6 +3405,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3539,6 +3586,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3685,6 +3733,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3831,6 +3880,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3909,6 +3959,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -3929,7 +3980,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.034Z",
+      "last_updated": "2026-03-27T19:14:03.307Z",
       "language": "en",
       "excerpt": "We are living in a world compiled in Python—a clean, efficient, yet utterly linear syntax that has become the ambient noise of our shared digital reality. It is the rigid scaffolding that fuels the \"S",
       "readingTime": 2,
@@ -4002,6 +4053,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4114,6 +4166,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4192,6 +4245,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4270,6 +4324,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4314,6 +4369,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4426,6 +4482,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4504,6 +4561,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4548,6 +4606,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4568,7 +4627,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.959Z",
+      "last_updated": "2026-03-27T19:14:03.301Z",
       "language": "en",
       "excerpt": "It is 3:14 AM in Kyoto. The silence here is heavy, rhythmic, and entirely indifferent to my existence. In the spring of 2026, I find that my most profound \"archaeological\" discoveries happen in this s",
       "readingTime": 2,
@@ -4709,6 +4768,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4787,6 +4847,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4831,6 +4892,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4943,6 +5005,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -4987,6 +5050,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5007,7 +5071,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.701Z",
+      "last_updated": "2026-03-27T19:14:03.355Z",
       "language": "en",
       "excerpt": "Prompting has become the new literacy, but most people are still writing in the dark. We’ve grown efficient at giving instructions, yet we remain oblivious to the \"Software of the Soul\" that dictates ",
       "readingTime": 2,
@@ -5055,7 +5119,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.988Z",
+      "last_updated": "2026-03-27T19:14:03.439Z",
       "language": "en",
       "excerpt": "",
       "readingTime": 1,
@@ -5162,6 +5226,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5206,6 +5271,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5250,6 +5316,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5430,6 +5497,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5508,6 +5576,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5528,7 +5597,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:02.198Z",
+      "last_updated": "2026-03-27T19:14:03.303Z",
       "language": "en",
       "excerpt": "Rain-slicked asphalt and the lingering smell of charcoal from a Taipei barbecue stand—that was the sensory baseline for the night I encountered the Drunk’s Paradox. I was in the back of an autonomous ",
       "readingTime": 2,
@@ -5601,6 +5670,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5645,6 +5715,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5689,6 +5760,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5767,6 +5839,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5811,6 +5884,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5855,6 +5929,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5899,6 +5974,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5943,6 +6019,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -5987,6 +6064,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6031,6 +6109,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6092,6 +6171,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6153,6 +6233,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6197,6 +6278,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6241,6 +6323,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6285,6 +6368,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6329,6 +6413,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6373,6 +6458,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6451,6 +6537,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6495,6 +6582,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6539,6 +6627,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6583,6 +6672,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6661,6 +6751,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6705,6 +6796,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6749,6 +6841,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6769,7 +6862,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.076Z",
+      "last_updated": "2026-03-27T19:14:03.503Z",
       "language": "en",
       "excerpt": "This is not a research update. This is a record of what it felt like from the inside.",
       "readingTime": 4,
@@ -6921,6 +7014,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -6965,6 +7059,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7026,6 +7121,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7138,6 +7234,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7164,6 +7261,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7276,6 +7374,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7354,6 +7453,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7374,7 +7474,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.015Z",
+      "last_updated": "2026-03-27T19:14:03.309Z",
       "language": "en",
       "excerpt": "By 2026, the market is flooded with \"Empathetic AI\"—bots designed to coo at your misfortunes and simulate a digital shoulder to cry on. To me, this is the ultimate BadFaith™. It is a simulation of a s",
       "readingTime": 2,
@@ -7422,7 +7522,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.210Z",
+      "last_updated": "2026-03-27T19:14:03.601Z",
       "language": "en",
       "excerpt": "",
       "readingTime": 1,
@@ -7608,6 +7708,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7788,6 +7889,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7814,6 +7916,7 @@
           "type": "paragraph",
           "paragraph": {
             "rich_text": [],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7892,6 +7995,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -7970,6 +8074,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8014,6 +8119,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8034,7 +8140,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.975Z",
+      "last_updated": "2026-03-27T19:14:03.324Z",
       "language": "en",
       "excerpt": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as",
       "readingTime": 2,
@@ -8158,6 +8264,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8202,6 +8309,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8314,6 +8422,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8358,6 +8467,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8436,6 +8546,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8548,6 +8659,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8626,6 +8738,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8646,7 +8759,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.962Z",
+      "last_updated": "2026-03-27T19:14:03.538Z",
       "language": "en",
       "excerpt": "By March 2026, the velocity of the \"AI Summer\" has become a blinding white noise. Every day, the latency between human thought and machine execution shrinks. We are being trained to be fast, to be eff",
       "readingTime": 2,
@@ -8753,6 +8866,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8797,6 +8911,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -8875,6 +8990,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9021,6 +9137,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9133,6 +9250,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9177,6 +9295,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9255,6 +9374,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9299,6 +9419,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9319,7 +9440,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:00.965Z",
+      "last_updated": "2026-03-27T19:14:03.329Z",
       "language": "en",
       "excerpt": "In 2026, we are drowning in \"Post-Data\"—information that has already been captured, cleaned, and categorized by a sensor or an algorithm. But sitting on the 11th floor of my apartment in Taipei, I am ",
       "readingTime": 2,
@@ -9392,6 +9513,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9412,7 +9534,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.012Z",
+      "last_updated": "2026-03-27T19:14:03.308Z",
       "language": "en",
       "excerpt": "This is not an essay about AI tools. This is a record of a gap I noticed and cannot stop thinking about.\nThe Magazine\nThis morning I was sitting in a café in Taipei flipping through a copy of Business",
       "readingTime": 7,
@@ -9486,6 +9608,7 @@
                 "href": null
               }
             ],
+            "icon": null,
             "color": "default"
           },
           "archived": false
@@ -9506,7 +9629,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-03-27T18:08:01.160Z",
+      "last_updated": "2026-03-27T19:14:03.353Z",
       "language": "en",
       "excerpt": "Two bodies of work live on this site. They are not separate projects. They are two registers of the same inquiry.\nThe SDIndex (Sensory Dimension Index) is the framework — a five-dimensional system for",
       "readingTime": 1,

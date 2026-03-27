@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-03-27T18:08:02.210Z",
+  "backup_date": "2026-03-27T19:14:03.917Z",
   "data": {
     "id": "32018eed-3014-80ee-8def-c8487dd554d5",
     "contentType": "article",
@@ -180,6 +180,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -360,6 +361,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -386,6 +388,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -464,6 +467,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -542,6 +546,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -586,6 +591,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -606,7 +612,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-03-27T18:08:00.975Z",
+    "last_updated": "2026-03-27T19:14:03.324Z",
     "language": "en",
     "excerpt": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as",
     "readingTime": 2,

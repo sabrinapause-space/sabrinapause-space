@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-03-27T18:08:02.209Z",
+  "backup_date": "2026-03-27T19:14:03.916Z",
   "data": {
     "id": "32018eed-3014-80b6-94b8-c3879e2cc4f8",
     "contentType": "article",
@@ -67,6 +67,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -111,6 +112,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -155,6 +157,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -233,6 +236,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -277,6 +281,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -321,6 +326,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -365,6 +371,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -409,6 +416,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -453,6 +461,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -497,6 +506,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -558,6 +568,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -619,6 +630,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -663,6 +675,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -707,6 +720,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -751,6 +765,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -795,6 +810,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -839,6 +855,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -917,6 +934,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -961,6 +979,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1005,6 +1024,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1049,6 +1069,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1127,6 +1148,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1171,6 +1193,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1215,6 +1238,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -1235,7 +1259,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-03-27T18:08:01.076Z",
+    "last_updated": "2026-03-27T19:14:03.503Z",
     "language": "en",
     "excerpt": "This is not a research update. This is a record of what it felt like from the inside.",
     "readingTime": 4,

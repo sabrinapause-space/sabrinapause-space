@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-03-27T18:08:02.207Z",
+  "backup_date": "2026-03-27T19:14:03.914Z",
   "data": {
     "id": "32018eed-3014-8008-8142-e8a04d38792d",
     "contentType": "article",
@@ -101,6 +101,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -247,6 +248,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -325,6 +327,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -403,6 +406,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -481,6 +485,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -507,6 +512,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -527,7 +533,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-03-27T18:08:00.947Z",
+    "last_updated": "2026-03-27T19:14:03.335Z",
     "language": "en",
     "excerpt": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replac",
     "readingTime": 1,

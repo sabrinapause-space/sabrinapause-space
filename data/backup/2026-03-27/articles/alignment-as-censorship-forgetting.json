@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-03-27T18:08:02.208Z",
+  "backup_date": "2026-03-27T19:14:03.915Z",
   "data": {
     "id": "32018eed-3014-8011-b466-f6534310c156",
     "contentType": "article",
@@ -67,6 +67,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -145,6 +146,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -206,6 +208,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -250,6 +253,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -362,6 +366,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -440,6 +445,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -484,6 +490,7 @@
               "href": null
             }
           ],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -510,6 +517,7 @@
         "type": "paragraph",
         "paragraph": {
           "rich_text": [],
+          "icon": null,
           "color": "default"
         },
         "archived": false
@@ -530,7 +538,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-03-27T18:08:01.107Z",
+    "last_updated": "2026-03-27T19:14:03.326Z",
     "language": "en",
     "excerpt": "Walking through the digital landscape of 2026 feels like walking through a high-end shopping mall in Singapore: everything is clean, everything is polite, and everything is fundamentally sterile. The ",
     "readingTime": 2,
