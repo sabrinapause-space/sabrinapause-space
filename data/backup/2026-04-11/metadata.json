@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0",
-  "backup_date": "2026-04-11T10:23:18.519Z",
+  "backup_date": "2026-04-11T11:00:04.088Z",
   "backup_source": "Notion API",
-  "total_count": 17,
+  "total_count": 18,
   "content_types": {
-    "article": 17,
+    "article": 18,
     "comic": 0,
     "podcast": 0
   },
   "categories": [
     "Journal",
-    "Library"
+    "Library",
+    "Framework"
   ],
   "projects": [],
   "all_concepts": [],
   "date_range": {
     "earliest": "",
-    "latest": "2026-03-17"
+    "latest": "2026-04-11"
   },
   "content_index": [
     {
@@ -137,13 +138,20 @@
       "type": "article",
       "date": "",
       "sd_index": 5.5
+    },
+    {
+      "slug": "sdindex-research-framework",
+      "title": "SDIndex: Research Framework & Open Data",
+      "type": "article",
+      "date": "2026-04-11",
+      "sd_index": 5
     }
   ],
   "agi_ready": {
     "with_embeddings": 0,
     "with_dialogue": 0,
     "with_philosophical_insight": 0,
-    "total_blocks": 128
+    "total_blocks": 138
   },
   "m3_terroir": {
     "with_ptv": 1,
