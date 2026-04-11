@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-11T12:33:26.259Z",
+  "backup_date": "2026-04-11T13:47:18.594Z",
   "data": {
     "id": "33f18eed-3014-80fa-9663-ecbb41854e18",
     "contentType": "article",
@@ -486,7 +486,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-11T12:33:25.256Z",
+    "last_updated": "2026-04-11T13:47:16.988Z",
     "language": "en",
     "excerpt": "SDIndex is a deployable fieldwork protocol for encoding embodied spatial perception as structured data. It measures five dimensions of how built environments act on the body in situ: material / cultur",
     "readingTime": 2
