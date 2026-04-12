@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0",
-  "backup_date": "2026-04-12T04:23:44.066Z",
+  "backup_date": "2026-04-12T06:07:52.389Z",
   "backup_source": "Notion API",
-  "total_count": 20,
+  "total_count": 22,
   "content_types": {
-    "article": 20,
+    "article": 21,
     "comic": 0,
-    "podcast": 0
+    "podcast": 1
   },
   "categories": [
     "Journal",
     "Library",
-    "Framework"
+    "Framework",
+    "Podcast"
   ],
   "projects": [],
   "all_concepts": [],
   "date_range": {
     "earliest": "",
-    "latest": "2026-03-17"
+    "latest": "2026-04-12"
   },
   "content_index": [
     {
@@ -150,14 +151,28 @@
       "slug": "why-beauty-fails-kyoto-spring-spatial-coherence",
       "title": "Why Beauty Fails: What Kyoto Spring Revealed About Spatial Coherence",
       "type": "article",
-      "date": "",
+      "date": "2026-04-12",
       "sd_index": 6
     },
     {
       "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
       "title": "SDIndex: Research Framework & Open Data",
       "type": "article",
-      "date": "",
+      "date": "2026-04-11",
+      "sd_index": 5
+    },
+    {
+      "slug": "start-here-audio-guide-to-sabrinapause-space",
+      "title": "What the Data Cannot Do",
+      "type": "article",
+      "date": "2026-04-12",
+      "sd_index": 5
+    },
+    {
+      "slug": "start-here-audio-guide-to-sabrinapause-space",
+      "title": "Start Here: An Audio Guide to SabrinaPause.space",
+      "type": "podcast",
+      "date": "2026-04-12",
       "sd_index": 5
     }
   ],
@@ -165,7 +180,7 @@
     "with_embeddings": 0,
     "with_dialogue": 0,
     "with_philosophical_insight": 0,
-    "total_blocks": 149
+    "total_blocks": 204
   },
   "m3_terroir": {
     "with_ptv": 1,

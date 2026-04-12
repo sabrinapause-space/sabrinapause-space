@@ -1,31 +1,27 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-12T06:07:52.384Z",
+  "backup_date": "2026-04-12T06:07:52.388Z",
   "data": {
-    "id": "32018eed-3014-80d2-84de-e37db3f09e77",
+    "id": "34018eed-3014-806a-911d-c9eba2b4f53d",
     "contentType": "article",
-    "title": "The Mirror That Doesn't Flatter: On High-Resolution Reflection",
-    "date": "2026-03-05",
-    "slug": "mirror-non-flattering-high-res",
+    "title": "What the Data Cannot Do",
+    "date": "2026-04-12",
+    "slug": "start-here-audio-guide-to-sabrinapause-space",
     "location": {
       "name": ""
     },
-    "webCategory": "Library",
+    "webCategory": "Framework",
     "project": [],
     "concepts": [],
-    "intentVector": [
-      "recursive"
-    ],
+    "intentVector": [],
     "sdIndex": 5,
     "Intent_Marker": [],
-    "lux": 800,
+    "lux": 0,
     "texture": null,
-    "noise": [
-      "Urban"
-    ],
+    "noise": [],
     "spacePattern": null,
     "timeVelocity": 0,
-    "heroImage": "/images/32018eed-3014-80d2-84de-e37db3f09e77.webp",
+    "heroImage": "/images/34018eed-3014-806a-911d-c9eba2b4f53d.webp",
     "blocks": [],
     "dialogue": [],
     "philosophical_insight": {},
@@ -35,18 +31,16 @@
     "sdIndexRaw": [],
     "regionCluster": "",
     "counterpointIds": [],
-    "evidenceType": [
-      "Hybrid"
-    ],
+    "evidenceType": [],
     "confidence": "High",
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-12T06:07:49.448Z",
+    "last_updated": "2026-04-12T06:07:49.450Z",
     "language": "en",
     "excerpt": "",
     "readingTime": 1,
-    "heroImageWidth": 2560,
-    "heroImageHeight": 2434
+    "heroImageWidth": 1920,
+    "heroImageHeight": 2560
   }
 }
