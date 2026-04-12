@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
-  "backup_date": "2026-04-12T01:24:57.629Z",
+  "backup_date": "2026-04-12T04:23:44.066Z",
   "backup_source": "Notion API",
-  "total_count": 18,
+  "total_count": 20,
   "content_types": {
-    "article": 18,
+    "article": 20,
     "comic": 0,
     "podcast": 0
   },
@@ -17,7 +17,7 @@
   "all_concepts": [],
   "date_range": {
     "earliest": "",
-    "latest": "2026-04-11"
+    "latest": "2026-03-17"
   },
   "content_index": [
     {
@@ -37,6 +37,13 @@
     {
       "slug": "mirroring-threshold-retrieval-to-echo",
       "title": "The Mirroring Threshold: From Retrieval to Recursive Echo",
+      "type": "article",
+      "date": "2026-03-02",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "mirroring-threshold-retrieval-to-echo",
+      "title": "The Mirroring Threshold: From Retrieval to Recursive Echo (1)",
       "type": "article",
       "date": "2026-03-02",
       "sd_index": 5.5
@@ -140,10 +147,17 @@
       "sd_index": 5.5
     },
     {
-      "slug": "sdindex-research-framework",
+      "slug": "why-beauty-fails-kyoto-spring-spatial-coherence",
+      "title": "Why Beauty Fails: What Kyoto Spring Revealed About Spatial Coherence",
+      "type": "article",
+      "date": "",
+      "sd_index": 6
+    },
+    {
+      "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
       "title": "SDIndex: Research Framework & Open Data",
       "type": "article",
-      "date": "2026-04-11",
+      "date": "",
       "sd_index": 5
     }
   ],
@@ -151,12 +165,12 @@
     "with_embeddings": 0,
     "with_dialogue": 0,
     "with_philosophical_insight": 0,
-    "total_blocks": 138
+    "total_blocks": 149
   },
   "m3_terroir": {
     "with_ptv": 1,
     "with_counterpoint": 0,
-    "with_region": 5,
+    "with_region": 6,
     "regions": [
       "Japan",
       "etc"

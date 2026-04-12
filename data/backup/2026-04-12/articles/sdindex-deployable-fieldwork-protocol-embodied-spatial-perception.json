@@ -1,31 +1,27 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-12T04:23:44.063Z",
+  "backup_date": "2026-04-12T04:23:44.065Z",
   "data": {
-    "id": "32018eed-3014-805e-a4a6-cddb45176cfa",
+    "id": "34018eed-3014-80e5-81d2-c0108baebd3b",
     "contentType": "article",
-    "title": "The Silence of the Third Eye: When AI Meets the I-Ching",
-    "date": "2026-03-08",
-    "slug": "third-eye-ai-iching",
+    "title": "SDIndex: Research Framework & Open Data",
+    "date": "",
+    "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
     "location": {
       "name": ""
     },
-    "webCategory": "Library",
+    "webCategory": "Framework",
     "project": [],
     "concepts": [],
-    "intentVector": [
-      "inward"
-    ],
-    "sdIndex": 5.5,
+    "intentVector": [],
+    "sdIndex": 5,
     "Intent_Marker": [],
-    "lux": 100,
+    "lux": 0,
     "texture": null,
-    "noise": [
-      "Nature"
-    ],
+    "noise": [],
     "spacePattern": null,
     "timeVelocity": 0,
-    "heroImage": "/images/32018eed-3014-805e-a4a6-cddb45176cfa.webp",
+    "heroImage": "/images/34018eed-3014-80e5-81d2-c0108baebd3b.webp",
     "blocks": [],
     "dialogue": [],
     "philosophical_insight": {},
@@ -35,18 +31,16 @@
     "sdIndexRaw": [],
     "regionCluster": "",
     "counterpointIds": [],
-    "evidenceType": [
-      "Speculative"
-    ],
+    "evidenceType": [],
     "confidence": "High",
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-12T04:23:41.602Z",
+    "last_updated": "2026-04-12T04:23:41.555Z",
     "language": "en",
     "excerpt": "",
     "readingTime": 1,
-    "heroImageWidth": 1809,
+    "heroImageWidth": 1920,
     "heroImageHeight": 2560
   }
 }

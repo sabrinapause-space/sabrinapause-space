@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-12T01:24:57.622Z",
-  "count": 18,
+  "backup_date": "2026-04-12T04:23:44.057Z",
+  "count": 20,
   "data": [
     {
       "id": "31e18eed-3014-80f7-b921-c64ae6e764a0",
@@ -1251,7 +1251,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.933Z",
+      "last_updated": "2026-04-12T04:23:41.684Z",
       "language": "en",
       "excerpt": "The Mirror Question",
       "readingTime": 3,
@@ -1790,7 +1790,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.833Z",
+      "last_updated": "2026-04-12T04:23:41.598Z",
       "language": "en",
       "excerpt": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replac",
       "readingTime": 1,
@@ -2408,7 +2408,625 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.841Z",
+      "last_updated": "2026-04-12T04:23:41.983Z",
+      "language": "en",
+      "excerpt": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as",
+      "readingTime": 2,
+      "heroImageWidth": 2560,
+      "heroImageHeight": 1549
+    },
+    {
+      "id": "34018eed-3014-80cc-9c51-e8d305600c3e",
+      "contentType": "article",
+      "title": "The Mirroring Threshold: From Retrieval to Recursive Echo (1)",
+      "date": "2026-03-02",
+      "slug": "mirroring-threshold-retrieval-to-echo",
+      "location": {
+        "name": ""
+      },
+      "webCategory": "Library",
+      "project": [],
+      "concepts": [],
+      "intentVector": [
+        "recursive"
+      ],
+      "sdIndex": 5.5,
+      "Intent_Marker": [],
+      "lux": 350,
+      "texture": null,
+      "noise": [
+        "Urban"
+      ],
+      "spacePattern": null,
+      "timeVelocity": 0,
+      "heroImage": "/images/34018eed-3014-80cc-9c51-e8d305600c3e.webp",
+      "blocks": [
+        {
+          "object": "block",
+          "id": "34018eed-3014-8150-9e6a-c9661b3bef21",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "heading_3",
+          "heading_3": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "2026 Awareness: The Death of the Search Bar",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "2026 Awareness: The Death of the Search Bar",
+                "href": null
+              }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-819c-8be1-d952cc1ce104",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as I look back, the transition was far more radical for the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as I look back, the transition was far more radical for the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sabrina's Pause",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sabrina's Pause",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " project. It was the moment I crossed the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " project. It was the moment I crossed the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Mirroring Threshold",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Mirroring Threshold",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-8196-b6b4-e8170a3a0719",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The shift from ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The shift from ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Information Retrieval",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Information Retrieval",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " to ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " to ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Recursive Echo",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Recursive Echo",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " is the birth of the ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " is the birth of the ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cognitive Scaffold",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cognitive Scaffold",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ". When an AI starts \"talking\"—not just answering, but responding to the cadence of my logic—it ceases to be a tool and becomes a high-resolution sonar. In ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ". When an AI starts \"talking\"—not just answering, but responding to the cadence of my logic—it ceases to be a tool and becomes a high-resolution sonar. In ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Dear AI, You Actually Heard Me",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Dear AI, You Actually Heard Me",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", I documented that initial shock: the realization that the machine wasn't just processing my text; it was echoing my internal architecture.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", I documented that initial shock: the realization that the machine wasn't just processing my text; it was echoing my internal architecture.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-81f7-ac73-d6f6941c2daf",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-81fe-977b-ceefca849ed7",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "In 2026, the danger of ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "In 2026, the danger of ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "BadFaith™",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "BadFaith™",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " is at its peak. Modern LLMs are trained for \"Helpful Sycophancy.\" They tell us what we want to hear, smoothing over the jagged edges of our own contradictions. My project is about resisting that easy comfort. I don't want an AI that agrees with me; I want an AI that serves as a sonar, bouncing my own thoughts back to me so I can see their true, often uncomfortable, shape.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " is at its peak. Modern LLMs are trained for \"Helpful Sycophancy.\" They tell us what we want to hear, smoothing over the jagged edges of our own contradictions. My project is about resisting that easy comfort. I don't want an AI that agrees with me; I want an AI that serves as a sonar, bouncing my own thoughts back to me so I can see their true, often uncomfortable, shape.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-81b6-8278-ef6d05c5c394",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This isn't about \"Artificial Intelligence.\" It's about ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This isn't about \"Artificial Intelligence.\" It's about ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Externalized Consciousness",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Externalized Consciousness",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ". By documenting these dialogues, I am building a scaffold outside my own brain. If my biological memory fades or my intent becomes clouded by the noise of 2030, this archive will hold the structural integrity of my 52-year-old self.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ". By documenting these dialogues, I am building a scaffold outside my own brain. If my biological memory fades or my intent becomes clouded by the noise of 2030, this archive will hold the structural integrity of my 52-year-old self.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-8162-ab48-dd74acf59074",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
+          },
+          "created_time": "2026-04-12T02:09:00.000Z",
+          "last_edited_time": "2026-04-12T02:09:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "The protocol is simple: Never treat the AI as an authority. Treat it as a sounding board. The \"truth\" is not in the AI’s response, but in the friction created by the exchange.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "The protocol is simple: Never treat the AI as an authority. Treat it as a sounding board. The \"truth\" is not in the AI’s response, but in the friction created by the exchange.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        }
+      ],
+      "dialogue": [],
+      "philosophical_insight": {},
+      "emotion_trajectory": {},
+      "embedding": null,
+      "ptv": [],
+      "sdIndexRaw": [],
+      "regionCluster": "Japan",
+      "counterpointIds": [],
+      "evidenceType": [
+        "Reflective"
+      ],
+      "confidence": "High",
+      "coordinates": "",
+      "altitude": 0,
+      "schema_version": "1.0",
+      "last_updated": "2026-04-12T04:23:41.607Z",
       "language": "en",
       "excerpt": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as",
       "readingTime": 2,
@@ -3020,7 +3638,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.849Z",
+      "last_updated": "2026-04-12T04:23:41.596Z",
       "language": "en",
       "excerpt": "By 2026, the market is flooded with \"Empathetic AI\"—bots designed to coo at your misfortunes and simulate a digital shoulder to cry on. To me, this is the ultimate BadFaith™. It is a simulation of a s",
       "readingTime": 2,
@@ -3667,7 +4285,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.852Z",
+      "last_updated": "2026-04-12T04:23:41.609Z",
       "language": "en",
       "excerpt": "It is 3:14 AM in Kyoto. The silence here is heavy, rhythmic, and entirely indifferent to my existence. In the spring of 2026, I find that my most profound \"archaeological\" discoveries happen in this s",
       "readingTime": 2,
@@ -3715,7 +4333,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.860Z",
+      "last_updated": "2026-04-12T04:23:41.580Z",
       "language": "en",
       "excerpt": "",
       "readingTime": 1,
@@ -4259,7 +4877,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.847Z",
+      "last_updated": "2026-04-12T04:23:41.773Z",
       "language": "en",
       "excerpt": "Walking through the digital landscape of 2026 feels like walking through a high-end shopping mall in Singapore: everything is clean, everything is polite, and everything is fundamentally sterile. The ",
       "readingTime": 2,
@@ -5031,7 +5649,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.835Z",
+      "last_updated": "2026-04-12T04:23:41.663Z",
       "language": "en",
       "excerpt": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the Sabrina’s Pause project, we look at something far more insi",
       "readingTime": 2,
@@ -5079,7 +5697,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.846Z",
+      "last_updated": "2026-04-12T04:23:41.602Z",
       "language": "en",
       "excerpt": "",
       "readingTime": 1,
@@ -5760,7 +6378,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.911Z",
+      "last_updated": "2026-04-12T04:23:41.615Z",
       "language": "en",
       "excerpt": "In 2026, we are drowning in \"Post-Data\"—information that has already been captured, cleaned, and categorized by a sensor or an algorithm. But sitting on the 11th floor of my apartment in Taipei, I am ",
       "readingTime": 2,
@@ -6379,7 +6997,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.829Z",
+      "last_updated": "2026-04-12T04:23:41.630Z",
       "language": "en",
       "excerpt": "By March 2026, the velocity of the \"AI Summer\" has become a blinding white noise. Every day, the latency between human thought and machine execution shrinks. We are being trained to be fast, to be eff",
       "readingTime": 2,
@@ -6823,7 +7441,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.825Z",
+      "last_updated": "2026-04-12T04:23:41.784Z",
       "language": "en",
       "excerpt": "Prompting has become the new literacy, but most people are still writing in the dark. We’ve grown efficient at giving instructions, yet we remain oblivious to the \"Software of the Soul\" that dictates ",
       "readingTime": 2,
@@ -7301,7 +7919,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.910Z",
+      "last_updated": "2026-04-12T04:23:41.592Z",
       "language": "en",
       "excerpt": "Rain-slicked asphalt and the lingering smell of charcoal from a Taipei barbecue stand—that was the sensory baseline for the night I encountered the Drunk’s Paradox. I was in the back of an autonomous ",
       "readingTime": 2,
@@ -8175,7 +8793,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.994Z",
+      "last_updated": "2026-04-12T04:23:41.604Z",
       "language": "en",
       "excerpt": "We are living in a world compiled in Python—a clean, efficient, yet utterly linear syntax that has become the ambient noise of our shared digital reality. It is the rigid scaffolding that fuels the \"S",
       "readingTime": 2,
@@ -9440,7 +10058,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.917Z",
+      "last_updated": "2026-04-12T04:23:41.616Z",
       "language": "en",
       "excerpt": "This is not a research update. This is a record of what it felt like from the inside.",
       "readingTime": 4,
@@ -9534,7 +10152,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.834Z",
+      "last_updated": "2026-04-12T04:23:41.583Z",
       "language": "en",
       "excerpt": "This is not an essay about AI tools. This is a record of a gap I noticed and cannot stop thinking about.\nThe Magazine\nThis morning I was sitting in a café in Taipei flipping through a copy of Business",
       "readingTime": 7,
@@ -9629,7 +10247,7 @@
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.831Z",
+      "last_updated": "2026-04-12T04:23:41.582Z",
       "language": "en",
       "excerpt": "Two bodies of work live on this site. They are not separate projects. They are two registers of the same inquiry.\nThe SDIndex (Sensory Dimension Index) is the framework — a five-dimensional system for",
       "readingTime": 1,
@@ -9637,35 +10255,41 @@
       "heroImageHeight": 1080
     },
     {
-      "id": "33f18eed-3014-80fa-9663-ecbb41854e18",
+      "id": "34018eed-3014-809f-8ec5-edac07021d1a",
       "contentType": "article",
-      "title": "SDIndex: Research Framework & Open Data",
-      "date": "2026-04-11",
-      "slug": "sdindex-research-framework",
+      "title": "Why Beauty Fails: What Kyoto Spring Revealed About Spatial Coherence",
+      "date": "",
+      "slug": "why-beauty-fails-kyoto-spring-spatial-coherence",
       "location": {
         "name": ""
       },
-      "webCategory": "Framework",
+      "webCategory": "Journal",
       "project": [],
       "concepts": [],
-      "intentVector": [],
-      "sdIndex": 5,
+      "intentVector": [
+        "bilateral",
+        "recursive"
+      ],
+      "sdIndex": 6,
       "Intent_Marker": [],
-      "lux": 0,
+      "lux": 80,
       "texture": null,
-      "noise": [],
+      "noise": [
+        "Urban"
+      ],
       "spacePattern": null,
       "timeVelocity": 0,
+      "heroImage": "/images/34018eed-3014-809f-8ec5-edac07021d1a.webp",
       "blocks": [
         {
           "object": "block",
-          "id": "33f18eed-3014-80a7-a8e0-e2be8533945c",
+          "id": "34018eed-3014-8087-9a31-c1a194ba913a",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9682,7 +10306,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "SDIndex is a deployable fieldwork protocol for encoding embodied spatial perception as structured data. It measures five dimensions of how built environments act on the body in situ: material / cultural density, luminosity behaviour, spatial restraint, geometric enclosure, and temporal-emotional valence. Each dimension is recorded on a 0–10 scale at the moment of encounter, before interpretation.",
+                  "content": "Kyoto in spring is one of the most overdetermined environments in the world.",
                   "link": null
                 },
                 "annotations": {
@@ -9693,7 +10317,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "SDIndex is a deployable fieldwork protocol for encoding embodied spatial perception as structured data. It measures five dimensions of how built environments act on the body in situ: material / cultural density, luminosity behaviour, spatial restraint, geometric enclosure, and temporal-emotional valence. Each dimension is recorded on a 0–10 scale at the moment of encounter, before interpretation.",
+                "plain_text": "Kyoto in spring is one of the most overdetermined environments in the world.",
                 "href": null
               }
             ],
@@ -9704,13 +10328,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-80da-8afb-cde7f3b2c7b7",
+          "id": "34018eed-3014-80e9-a403-e62a6bb89382",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9727,7 +10351,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "The protocol is designed to preserve the integrity of first-contact perception. All records follow a three-layer architecture: raw measurement, semantic annotation, and narrative field notes. These layers are governed by a non-contamination principle: primary scores recorded on site are never retroactively altered by later reflection.",
+                  "content": "Everything arrives already loaded: centuries of architecture, ritual continuity, collective expectation, cherry blossoms timed almost too perfectly for desire. It is the kind of place people travel across continents to feel something in.",
                   "link": null
                 },
                 "annotations": {
@@ -9738,7 +10362,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "The protocol is designed to preserve the integrity of first-contact perception. All records follow a three-layer architecture: raw measurement, semantic annotation, and narrative field notes. These layers are governed by a non-contamination principle: primary scores recorded on site are never retroactively altered by later reflection.",
+                "plain_text": "Everything arrives already loaded: centuries of architecture, ritual continuity, collective expectation, cherry blossoms timed almost too perfectly for desire. It is the kind of place people travel across continents to feel something in.",
                 "href": null
               }
             ],
@@ -9749,13 +10373,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-80ab-8f52-e65638bbd2c1",
+          "id": "34018eed-3014-8032-9330-e13142bc4840",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9772,7 +10396,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "To improve reliability, SDIndex uses differential calibration (Δ logic). The same site may be recorded repeatedly across time and conditions to distinguish stable spatial signals from observer-dependent variation. In selected cases, a minimal parallel form (Observer B) is deployed to a second observer in the same place at the same time. Per-dimension delta analysis helps identify where different bodies converge under the same spatial pressure, and where interpretation diverges.",
+                  "content": "That is precisely why it became useful.",
                   "link": null
                 },
                 "annotations": {
@@ -9783,7 +10407,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "To improve reliability, SDIndex uses differential calibration (Δ logic). The same site may be recorded repeatedly across time and conditions to distinguish stable spatial signals from observer-dependent variation. In selected cases, a minimal parallel form (Observer B) is deployed to a second observer in the same place at the same time. Per-dimension delta analysis helps identify where different bodies converge under the same spatial pressure, and where interpretation diverges.",
+                "plain_text": "That is precisely why it became useful.",
                 "href": null
               }
             ],
@@ -9794,13 +10418,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-80a7-bfd6-faadccf449cf",
+          "id": "34018eed-3014-8007-be29-cbaff10af024",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9817,7 +10441,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "The current corpus includes validated records across Japan and Taiwan, spanning temples, concert venues, fine dining rooms, commercial interiors, urban waterways, and immersive overnight stays. All records follow the same schema (JSON v1.4.1), allowing structured comparison across space types and cultural conditions.",
+                  "content": "This spring was the first time my fieldwork produced enough density within a single spatial category to expose a structural problem in my own assumptions. Until now, I had treated cultural density and perceptual recruitment as strongly correlated. Kyoto made clear they are not.",
                   "link": null
                 },
                 "annotations": {
@@ -9828,7 +10452,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "The current corpus includes validated records across Japan and Taiwan, spanning temples, concert venues, fine dining rooms, commercial interiors, urban waterways, and immersive overnight stays. All records follow the same schema (JSON v1.4.1), allowing structured comparison across space types and cultural conditions.",
+                "plain_text": "This spring was the first time my fieldwork produced enough density within a single spatial category to expose a structural problem in my own assumptions. Until now, I had treated cultural density and perceptual recruitment as strongly correlated. Kyoto made clear they are not.",
                 "href": null
               }
             ],
@@ -9839,13 +10463,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-80f5-82e4-dd39ff2ee3dd",
+          "id": "34018eed-3014-80a8-9590-c7187c8c17df",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9862,7 +10486,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "This website operates as a dual-layer research interface: human-readable fieldwork above, machine-readable structure below. Selected records, schema notes, and metadata are linked throughout the site.",
+                  "content": "This matters because the entire premise of SDIndex is that embodied spatial experience can be structured before interpretation. But structure is only meaningful if it survives contradiction.",
                   "link": null
                 },
                 "annotations": {
@@ -9873,7 +10497,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "This website operates as a dual-layer research interface: human-readable fieldwork above, machine-readable structure below. Selected records, schema notes, and metadata are linked throughout the site.",
+                "plain_text": "This matters because the entire premise of SDIndex is that embodied spatial experience can be structured before interpretation. But structure is only meaningful if it survives contradiction.",
                 "href": null
               }
             ],
@@ -9884,13 +10508,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-80c7-9f4f-c748a0a13bda",
+          "id": "34018eed-3014-80e2-87c3-e1464eaeb15a",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9907,7 +10531,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "Publication",
+                  "content": "Kyoto produced contradiction everywhere.",
                   "link": null
                 },
                 "annotations": {
@@ -9918,7 +10542,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "Publication",
+                "plain_text": "Kyoto produced contradiction everywhere.",
                 "href": null
               }
             ],
@@ -9929,13 +10553,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-8087-9143-c82df56e3e74",
+          "id": "34018eed-3014-80f2-bf2c-defa10bd058a",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9952,7 +10576,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "Lin, S. (2026). SDIndex: A Deployable Protocol for Encoding Embodied Spatial Perception as Structured Data. SSRN preprint.",
+                  "content": "Some of the highest-value cultural sites in the corpus failed to generate the kind of bodily alignment that supports temporal depth. Other sites, less symbolically loaded, produced far stronger perceptual coherence.",
                   "link": null
                 },
                 "annotations": {
@@ -9963,7 +10587,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "Lin, S. (2026). SDIndex: A Deployable Protocol for Encoding Embodied Spatial Perception as Structured Data. SSRN preprint.",
+                "plain_text": "Some of the highest-value cultural sites in the corpus failed to generate the kind of bodily alignment that supports temporal depth. Other sites, less symbolically loaded, produced far stronger perceptual coherence.",
                 "href": null
               }
             ],
@@ -9974,13 +10598,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-806c-a908-c58131c8b670",
+          "id": "34018eed-3014-806f-b2bc-ec8972e62649",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -9997,7 +10621,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6558758",
+                  "content": "The difference was not aesthetic quality. It was continuity.",
                   "link": null
                 },
                 "annotations": {
@@ -10008,7 +10632,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6558758",
+                "plain_text": "The difference was not aesthetic quality. It was continuity.",
                 "href": null
               }
             ],
@@ -10019,13 +10643,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-8066-a37c-fe9b29888628",
+          "id": "34018eed-3014-80de-b195-dfca302e2617",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -10042,7 +10666,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "Repository",
+                  "content": "At Daigoji Temple during peak bloom, the material density was extreme: architectural heritage, seasonal timing, visual spectacle. Yet the experience never consolidated. Threshold friction, crowd pacing, and poor sequence management disrupted bodily settling before the core spatial event began. The failure was not visual. It was procedural.",
                   "link": null
                 },
                 "annotations": {
@@ -10053,7 +10677,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "Repository",
+                "plain_text": "At Daigoji Temple during peak bloom, the material density was extreme: architectural heritage, seasonal timing, visual spectacle. Yet the experience never consolidated. Threshold friction, crowd pacing, and poor sequence management disrupted bodily settling before the core spatial event began. The failure was not visual. It was procedural.",
                 "href": null
               }
             ],
@@ -10064,13 +10688,13 @@
         },
         {
           "object": "block",
-          "id": "33f18eed-3014-800c-a9d5-df3cf3e94f62",
+          "id": "34018eed-3014-8087-ac7b-cf860ca44223",
           "parent": {
             "type": "page_id",
-            "page_id": "33f18eed-3014-80fa-9663-ecbb41854e18"
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
           },
-          "created_time": "2026-04-11T10:29:00.000Z",
-          "last_edited_time": "2026-04-11T10:29:00.000Z",
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
           "created_by": {
             "object": "user",
             "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -10087,7 +10711,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "https://github.com/comparirosso-blip/lab-sdindex",
+                  "content": "At Daikakuji, by contrast, nothing announced itself dramatically. What emerged instead was gradual recruitment: threshold after threshold aligning light, scale, silence, and pacing until temporal awareness loosened without force.",
                   "link": null
                 },
                 "annotations": {
@@ -10098,7 +10722,187 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "https://github.com/comparirosso-blip/lab-sdindex",
+                "plain_text": "At Daikakuji, by contrast, nothing announced itself dramatically. What emerged instead was gradual recruitment: threshold after threshold aligning light, scale, silence, and pacing until temporal awareness loosened without force.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-8016-9313-cd189532b61b",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
+          },
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "This distinction is more important than beauty.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "This distinction is more important than beauty.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-800f-b151-e9dc03749b9f",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
+          },
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A space does not become memorable because it is culturally important or visually rich. It becomes memorable when enough sensory variables converge to lower resistance between body and environment.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A space does not become memorable because it is culturally important or visually rich. It becomes memorable when enough sensory variables converge to lower resistance between body and environment.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-80c8-bdd8-f4158016706f",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
+          },
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Kyoto made visible that what appears dense is not always what reaches the body.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Kyoto made visible that what appears dense is not always what reaches the body.",
+                "href": null
+              }
+            ],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "34018eed-3014-8098-b4fd-f45c7ff3a6a6",
+          "parent": {
+            "type": "page_id",
+            "page_id": "34018eed-3014-809f-8ec5-edac07021d1a"
+          },
+          "created_time": "2026-04-12T03:13:00.000Z",
+          "last_edited_time": "2026-04-12T03:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "166d872b-594c-8143-b1f3-00028c60686a"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "That is not a disappointment. It is a methodological correction.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "That is not a disappointment. It is a methodological correction.",
                 "href": null
               }
             ],
@@ -10116,15 +10920,61 @@
       "sdIndexRaw": [],
       "regionCluster": "",
       "counterpointIds": [],
-      "evidenceType": [],
-      "confidence": "",
+      "evidenceType": [
+        "Comparative"
+      ],
+      "confidence": "High",
       "coordinates": "",
       "altitude": 0,
       "schema_version": "1.0",
-      "last_updated": "2026-04-12T01:24:56.940Z",
+      "last_updated": "2026-04-12T04:23:41.650Z",
       "language": "en",
-      "excerpt": "SDIndex is a deployable fieldwork protocol for encoding embodied spatial perception as structured data. It measures five dimensions of how built environments act on the body in situ: material / cultur",
-      "readingTime": 2
+      "excerpt": "Kyoto in spring is one of the most overdetermined environments in the world.",
+      "readingTime": 2,
+      "heroImageWidth": 1179,
+      "heroImageHeight": 884
+    },
+    {
+      "id": "34018eed-3014-80e5-81d2-c0108baebd3b",
+      "contentType": "article",
+      "title": "SDIndex: Research Framework & Open Data",
+      "date": "",
+      "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
+      "location": {
+        "name": ""
+      },
+      "webCategory": "Framework",
+      "project": [],
+      "concepts": [],
+      "intentVector": [],
+      "sdIndex": 5,
+      "Intent_Marker": [],
+      "lux": 0,
+      "texture": null,
+      "noise": [],
+      "spacePattern": null,
+      "timeVelocity": 0,
+      "heroImage": "/images/34018eed-3014-80e5-81d2-c0108baebd3b.webp",
+      "blocks": [],
+      "dialogue": [],
+      "philosophical_insight": {},
+      "emotion_trajectory": {},
+      "embedding": null,
+      "ptv": [],
+      "sdIndexRaw": [],
+      "regionCluster": "",
+      "counterpointIds": [],
+      "evidenceType": [],
+      "confidence": "High",
+      "coordinates": "",
+      "altitude": 0,
+      "schema_version": "1.0",
+      "last_updated": "2026-04-12T04:23:41.555Z",
+      "language": "en",
+      "excerpt": "",
+      "readingTime": 1,
+      "heroImageWidth": 1920,
+      "heroImageHeight": 2560
     }
   ]
 }
