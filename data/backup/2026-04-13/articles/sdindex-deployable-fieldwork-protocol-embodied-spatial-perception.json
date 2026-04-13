@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-13T17:50:50.975Z",
+  "backup_date": "2026-04-13T18:59:38.673Z",
   "data": {
     "id": "34018eed-3014-80e5-81d2-c0108baebd3b",
     "contentType": "article",
@@ -2720,7 +2720,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-13T17:50:49.877Z",
+    "last_updated": "2026-04-13T18:59:38.155Z",
     "language": "en",
     "excerpt": "The Sensory Density Index (SDIndex) is a fieldwork protocol for encoding how human bodies perceive built spaces. It converts first-person sensory experience into structured, machine-readable data.",
     "readingTime": 2,
