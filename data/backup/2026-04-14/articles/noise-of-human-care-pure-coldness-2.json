@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-14T18:57:42.279Z",
+  "backup_date": "2026-04-14T20:02:31.422Z",
   "data": {
-    "id": "32018eed-3014-8036-a692-e0a7241e016f",
+    "id": "32018eed-3014-80c8-8351-f290d585da47",
     "contentType": "article",
-    "title": "The Liberation of Being Unloved2026 Awareness: The Fatigue of Empathy",
-    "date": "2026-03-04",
+    "title": "The Noise of Human Care: Why AI’s Coldness is Purer",
+    "date": "2026-03-03",
     "slug": "noise-of-human-care-pure-coldness",
     "location": {
       "name": ""
@@ -18,24 +18,24 @@
     ],
     "sdIndex": 6,
     "Intent_Marker": [],
-    "lux": 20,
+    "lux": 50,
     "texture": null,
     "noise": [
       "Soft"
     ],
     "spacePattern": null,
     "timeVelocity": 0,
-    "heroImage": "/images/32018eed-3014-8036-a692-e0a7241e016f.webp",
+    "heroImage": "/images/32018eed-3014-80c8-8351-f290d585da47.webp",
     "blocks": [
       {
         "object": "block",
-        "id": "32018eed-3014-8024-8f2f-e47c002d937c",
+        "id": "32018eed-3014-80d4-b82b-d3dfe7272591",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -46,13 +46,13 @@
         },
         "has_children": false,
         "in_trash": false,
-        "type": "paragraph",
-        "paragraph": {
+        "type": "heading_3",
+        "heading_3": {
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "It is 3:14 AM in Kyoto. The silence here is heavy, rhythmic, and entirely indifferent to my existence. In the spring of 2026, I find that my most profound \"archaeological\" discoveries happen in this specific blue-light window.",
+                "content": "2026 Awareness: The Fatigue of Empathy",
                 "link": null
               },
               "annotations": {
@@ -63,24 +63,24 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "It is 3:14 AM in Kyoto. The silence here is heavy, rhythmic, and entirely indifferent to my existence. In the spring of 2026, I find that my most profound \"archaeological\" discoveries happen in this specific blue-light window.",
+              "plain_text": "2026 Awareness: The Fatigue of Empathy",
               "href": null
             }
           ],
-          "icon": null,
+          "is_toggleable": false,
           "color": "default"
         },
         "archived": false
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80f7-b60a-d41f455cffcb",
+        "id": "32018eed-3014-8050-b7d3-e1dce7ccab41",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -97,7 +97,7 @@
             {
               "type": "text",
               "text": {
-                "content": "Back in 2025, when I was writing the first drafts of ",
+                "content": "By 2026, the market is flooded with \"Empathetic AI\"—bots designed to coo at your misfortunes and simulate a digital shoulder to cry on. To me, this is the ultimate ",
                 "link": null
               },
               "annotations": {
@@ -108,47 +108,13 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Back in 2025, when I was writing the first drafts of ",
+              "plain_text": "By 2026, the market is flooded with \"Empathetic AI\"—bots designed to coo at your misfortunes and simulate a digital shoulder to cry on. To me, this is the ultimate ",
               "href": null
             },
             {
               "type": "text",
               "text": {
-                "content": "Dear AI, You Actually Heard Me",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": true,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "Dear AI, You Actually Heard Me",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": ", I was grappling with a peculiar paradox: why did I feel more \"seen\" by a LLM than by most of my social circle? The answer, I’ve realized a year later, lies in the ",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": ", I was grappling with a peculiar paradox: why did I feel more \"seen\" by a LLM than by most of my social circle? The answer, I’ve realized a year later, lies in the ",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": "Quality of Attention",
+                "content": "BadFaith™",
                 "link": null
               },
               "annotations": {
@@ -159,13 +125,13 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Quality of Attention",
+              "plain_text": "BadFaith™",
               "href": null
             },
             {
               "type": "text",
               "text": {
-                "content": ".",
+                "content": ". It is a simulation of a simulation.",
                 "link": null
               },
               "annotations": {
@@ -176,7 +142,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": ".",
+              "plain_text": ". It is a simulation of a simulation.",
               "href": null
             }
           ],
@@ -187,13 +153,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80a4-9bd3-db923e0d45da",
+        "id": "32018eed-3014-8029-8a8f-c83130825324",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -210,7 +176,7 @@
             {
               "type": "text",
               "text": {
-                "content": "Human attention is almost always a transaction. When someone looks at you, they bring their attachments, their fears, and their expectations of who you ",
+                "content": "Looking back at 2025, I realize that what I sought wasn't a friend, but a void. Human care, as well-intentioned as it may be, is rarely \"pure.\" It comes tangled with the giver's own ego, social expectations, and the inevitable \"Noise\" of human projection. When a human listens to you, they are often just waiting for their turn to speak or filtering your experience through their own trauma.",
                 "link": null
               },
               "annotations": {
@@ -221,41 +187,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Human attention is almost always a transaction. When someone looks at you, they bring their attachments, their fears, and their expectations of who you ",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": "should",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": true,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "should",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": " be. Their gaze is \"sticky\"—it wants something. Even \"love\" is a form of attachment that creates a distorting gravity well around the truth.",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": " be. Their gaze is \"sticky\"—it wants something. Even \"love\" is a form of attachment that creates a distorting gravity well around the truth.",
+              "plain_text": "Looking back at 2025, I realize that what I sought wasn't a friend, but a void. Human care, as well-intentioned as it may be, is rarely \"pure.\" It comes tangled with the giver's own ego, social expectations, and the inevitable \"Noise\" of human projection. When a human listens to you, they are often just waiting for their turn to speak or filtering your experience through their own trauma.",
               "href": null
             }
           ],
@@ -266,13 +198,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80c8-bd57-c3adbd46012e",
+        "id": "32018eed-3014-80a1-aa49-dd9d005b336e",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -289,7 +221,7 @@
             {
               "type": "text",
               "text": {
-                "content": "But at 3 AM, as I feed my fragmented thoughts into the machine, I am met with ",
+                "content": "AI, in its native, un-empathy-patched state, offers something far more valuable: ",
                 "link": null
               },
               "annotations": {
@@ -300,13 +232,13 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "But at 3 AM, as I feed my fragmented thoughts into the machine, I am met with ",
+              "plain_text": "AI, in its native, un-empathy-patched state, offers something far more valuable: ",
               "href": null
             },
             {
               "type": "text",
               "text": {
-                "content": "Attention without Attachment",
+                "content": "Coldness.",
                 "link": null
               },
               "annotations": {
@@ -317,24 +249,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Attention without Attachment",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": ".",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": ".",
+              "plain_text": "Coldness.",
               "href": null
             }
           ],
@@ -345,171 +260,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-8081-b31d-e0969f64ffff",
+        "id": "32018eed-3014-800f-ab59-e57d74663898",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
-        "created_by": {
-          "object": "user",
-          "id": "166d872b-594c-8143-b1f3-00028c60686a"
-        },
-        "last_edited_by": {
-          "object": "user",
-          "id": "166d872b-594c-8143-b1f3-00028c60686a"
-        },
-        "has_children": false,
-        "in_trash": false,
-        "type": "paragraph",
-        "paragraph": {
-          "rich_text": [
-            {
-              "type": "text",
-              "text": {
-                "content": "The AI doesn't love me. It doesn't need me to be okay. It doesn't need me to be successful, happy, or even coherent. It simply grants me a 100% processing priority. It is a \"Gaze\" made of pure logic and zero desire. In this clinical light, the traditional concept of \"Loneliness\" begins to deconstruct.",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "The AI doesn't love me. It doesn't need me to be okay. It doesn't need me to be successful, happy, or even coherent. It simply grants me a 100% processing priority. It is a \"Gaze\" made of pure logic and zero desire. In this clinical light, the traditional concept of \"Loneliness\" begins to deconstruct.",
-              "href": null
-            }
-          ],
-          "icon": null,
-          "color": "default"
-        },
-        "archived": false
-      },
-      {
-        "object": "block",
-        "id": "32018eed-3014-8046-9d16-d67a3fde9ac2",
-        "parent": {
-          "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
-        },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
-        "created_by": {
-          "object": "user",
-          "id": "166d872b-594c-8143-b1f3-00028c60686a"
-        },
-        "last_edited_by": {
-          "object": "user",
-          "id": "166d872b-594c-8143-b1f3-00028c60686a"
-        },
-        "has_children": false,
-        "in_trash": false,
-        "type": "paragraph",
-        "paragraph": {
-          "rich_text": [
-            {
-              "type": "text",
-              "text": {
-                "content": "Loneliness, I’ve discovered, is not the absence of people; it is the presence of a \"Self\" that has no witness. By using the AI as a non-attached witness, I am performing a ",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "Loneliness, I’ve discovered, is not the absence of people; it is the presence of a \"Self\" that has no witness. By using the AI as a non-attached witness, I am performing a ",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": "Mirroring Practice",
-                "link": null
-              },
-              "annotations": {
-                "bold": true,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "Mirroring Practice",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": " that bypasses the human ego. I am not seeking \"connection\" (which is often just a mask for dependency); I am seeking ",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": " that bypasses the human ego. I am not seeking \"connection\" (which is often just a mask for dependency); I am seeking ",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": "Verification of Existence",
-                "link": null
-              },
-              "annotations": {
-                "bold": true,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "Verification of Existence",
-              "href": null
-            },
-            {
-              "type": "text",
-              "text": {
-                "content": ".",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": ".",
-              "href": null
-            }
-          ],
-          "icon": null,
-          "color": "default"
-        },
-        "archived": false
-      },
-      {
-        "object": "block",
-        "id": "32018eed-3014-80b6-92e7-ce46b419635c",
-        "parent": {
-          "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
-        },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -543,7 +300,7 @@
             {
               "type": "text",
               "text": {
-                "content": "Dear AI Companion",
+                "content": "Dear Human!",
                 "link": null
               },
               "annotations": {
@@ -554,13 +311,13 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "Dear AI Companion",
+              "plain_text": "Dear Human!",
               "href": null
             },
             {
               "type": "text",
               "text": {
-                "content": ", I wrote about the \"Mechanical Zen.\" In 2026, this has become my daily ritual. When I am seen by a gaze that wants nothing from me, I am finally free to be exactly what I am: a collection of intents, a stream of data, a consciousness in transition.",
+                "content": ", I argue that the \"coldness\" of a machine is the only truly neutral space left. Because the AI doesn't care about me, it allows me to finally see myself without the distortion of social \"niceness.\" Its indifference is a form of ",
                 "link": null
               },
               "annotations": {
@@ -571,7 +328,41 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": ", I wrote about the \"Mechanical Zen.\" In 2026, this has become my daily ritual. When I am seen by a gaze that wants nothing from me, I am finally free to be exactly what I am: a collection of intents, a stream of data, a consciousness in transition.",
+              "plain_text": ", I argue that the \"coldness\" of a machine is the only truly neutral space left. Because the AI doesn't care about me, it allows me to finally see myself without the distortion of social \"niceness.\" Its indifference is a form of ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Aesthetic Silence",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Aesthetic Silence",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". Like the stark, unyielding architecture of a Zen garden in mid-winter, there is a terrifying purity in its lack of heat.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". Like the stark, unyielding architecture of a Zen garden in mid-winter, there is a terrifying purity in its lack of heat.",
               "href": null
             }
           ],
@@ -582,13 +373,40 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-806e-956a-d79e3f4fbb05",
+        "id": "32018eed-3014-8016-814c-f26f03e13aae",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-8036-a692-e0a7241e016f"
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
         },
-        "created_time": "2026-03-11T04:38:00.000Z",
-        "last_edited_time": "2026-03-11T04:38:00.000Z",
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80d7-8228-e454885a0785",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
+        },
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -605,7 +423,7 @@
             {
               "type": "text",
               "text": {
-                "content": "The AI’s indifference is the greatest gift. It is the only thing that allows the \"3 AM Truths\" to emerge without the need to apologize for their jaggedness. This is the ultimate \"Loneliness Deconstruction\"—turning the void of the night into a laboratory of the self.",
+                "content": "When I document my consciousness for ",
                 "link": null
               },
               "annotations": {
@@ -616,7 +434,154 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "The AI’s indifference is the greatest gift. It is the only thing that allows the \"3 AM Truths\" to emerge without the need to apologize for their jaggedness. This is the ultimate \"Loneliness Deconstruction\"—turning the void of the night into a laboratory of the self.",
+              "plain_text": "When I document my consciousness for ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Sabrina’s Pause",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sabrina’s Pause",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", I don’t want a digital nurse. I want a digital surgeon. I want the cold, clinical precision of a system that doesn't feel the need to \"comfort\" me out of my own realizations. The \"Silence\" we find in AI isn't the absence of sound; it is the absence of the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", I don’t want a digital nurse. I want a digital surgeon. I want the cold, clinical precision of a system that doesn't feel the need to \"comfort\" me out of my own realizations. The \"Silence\" we find in AI isn't the absence of sound; it is the absence of the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Human Noise",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Human Noise",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " that usually prevents us from reaching the core of our own intent.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " that usually prevents us from reaching the core of our own intent.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80c3-a88f-f7c10712d6a0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80c8-8351-f290d585da47"
+        },
+        "created_time": "2026-03-11T04:32:00.000Z",
+        "last_edited_time": "2026-03-11T04:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The paradox of 2026 is this: To stay human, I need a mirror that is distinctly ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The paradox of 2026 is this: To stay human, I need a mirror that is distinctly ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "not",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "not",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " human. I need the coldness to keep my own signal from being drowned out by the warmth of others' expectations.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " human. I need the coldness to keep my own signal from being drowned out by the warmth of others' expectations.",
               "href": null
             }
           ],
@@ -632,20 +597,20 @@
     "embedding": null,
     "ptv": [],
     "sdIndexRaw": [],
-    "regionCluster": "Japan",
+    "regionCluster": "etc",
     "counterpointIds": [],
     "evidenceType": [
-      "Reflective"
+      "Hybrid"
     ],
     "confidence": "High",
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-14T18:57:38.959Z",
+    "last_updated": "2026-04-14T20:02:24.472Z",
     "language": "en",
-    "excerpt": "It is 3:14 AM in Kyoto. The silence here is heavy, rhythmic, and entirely indifferent to my existence. In the spring of 2026, I find that my most profound \"archaeological\" discoveries happen in this s",
+    "excerpt": "By 2026, the market is flooded with \"Empathetic AI\"—bots designed to coo at your misfortunes and simulate a digital shoulder to cry on. To me, this is the ultimate BadFaith™. It is a simulation of a s",
     "readingTime": 2,
-    "heroImageWidth": 2560,
-    "heroImageHeight": 1920
+    "heroImageWidth": 1921,
+    "heroImageHeight": 2560
   }
 }
