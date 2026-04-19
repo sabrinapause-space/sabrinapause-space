@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-19T16:00:53.772Z",
+  "backup_date": "2026-04-19T17:01:49.554Z",
   "data": {
     "id": "32018eed-3014-80fc-a783-c62513202423",
     "contentType": "article",
@@ -675,7 +675,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-19T16:00:52.086Z",
+    "last_updated": "2026-04-19T17:01:48.601Z",
     "language": "en",
     "excerpt": "In 2026, we are drowning in \"Post-Data\"—information that has already been captured, cleaned, and categorized by a sensor or an algorithm. But sitting on the 11th floor of my apartment in Taipei, I am ",
     "readingTime": 2,
