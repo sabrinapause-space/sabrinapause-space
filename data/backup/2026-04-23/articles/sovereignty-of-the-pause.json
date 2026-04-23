@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-04-23T16:56:24.792Z",
+  "backup_date": "2026-04-23T18:02:30.048Z",
   "data": {
     "id": "32018eed-3014-80ee-937e-db508b4093fb",
     "contentType": "article",
@@ -613,7 +613,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-04-23T16:56:22.526Z",
+    "last_updated": "2026-04-23T18:02:29.129Z",
     "language": "en",
     "excerpt": "By March 2026, the velocity of the \"AI Summer\" has become a blinding white noise. Every day, the latency between human thought and machine execution shrinks. We are being trained to be fast, to be eff",
     "readingTime": 2,
