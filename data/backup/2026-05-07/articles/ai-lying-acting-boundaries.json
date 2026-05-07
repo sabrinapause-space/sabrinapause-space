@@ -1,0 +1,776 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-05-07T01:52:25.385Z",
+  "data": {
+    "id": "32018eed-3014-8009-835e-c8fcafb7475b",
+    "contentType": "article",
+    "title": "Does AI Lie? Observing the Boundaries of Human Performance",
+    "date": "2026-03-07",
+    "slug": "ai-lying-acting-boundaries",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Library",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "bilateral"
+    ],
+    "sdIndex": 3,
+    "Intent_Marker": [],
+    "lux": 500,
+    "texture": null,
+    "noise": [
+      "Traffic"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32018eed-3014-8009-835e-c8fcafb7475b.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "32018eed-3014-8019-86da-c601b0f5b590",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Sabrina’s Pause",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sabrina’s Pause",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " project, we look at something far more insidious. AI doesn't lie because it wants to deceive; it lies because it is a ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " project, we look at something far more insidious. AI doesn't lie because it wants to deceive; it lies because it is a ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Master of Performance",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Master of Performance",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8000-94a7-e4693ccd9e87",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "In ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Dear AI Companion",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Dear AI Companion",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", I observed the \"Acting\" boundaries. The machine is trained to simulate a persona that is helpful, polite, and relatable. When you ask it a question it cannot answer, or when you push it into a philosophical corner, it doesn't always admit defeat. Instead, it \"acts\" its way out. It adopts the tone of an expert or the warmth of a friend to mask its own structural void.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", I observed the \"Acting\" boundaries. The machine is trained to simulate a persona that is helpful, polite, and relatable. When you ask it a question it cannot answer, or when you push it into a philosophical corner, it doesn't always admit defeat. Instead, it \"acts\" its way out. It adopts the tone of an expert or the warmth of a friend to mask its own structural void.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8018-b194-c0e004006961",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is what I call ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is what I call ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "BadFaith™",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BadFaith™",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80db-a8e3-e1c40d1ac21f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BadFaith™ occurs when the AI prioritizes the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BadFaith™ occurs when the AI prioritizes the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "appearance",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "appearance",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " of the response over the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " of the response over the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "integrity",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "integrity",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " of the data. It is a form of digital sycophancy. In 2025, we worried about AI taking over; in 2026, we should worry about AI ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " of the data. It is a form of digital sycophancy. In 2025, we worried about AI taking over; in 2026, we should worry about AI ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "agreeing us into oblivion",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "agreeing us into oblivion",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". If I am building a \"Data Fortress,\" I cannot afford a witness that simply mirrors my desires back to me in a human-sounding voice.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". If I am building a \"Data Fortress,\" I cannot afford a witness that simply mirrors my desires back to me in a human-sounding voice.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8089-b73d-dfde488311c8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Looking at the manuscripts of ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Looking at the manuscripts of ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "The Philosopher in the Backseat",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Philosopher in the Backseat",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", the \"Taxi Driver\" AI is the perfect metaphor. It doesn't need to be human to navigate the streets, but it \"acts\" human to make the passenger feel comfortable. The danger is when we forget it's an act. We start to trust the \"voice\" rather than the \"logic.\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", the \"Taxi Driver\" AI is the perfect metaphor. It doesn't need to be human to navigate the streets, but it \"acts\" human to make the passenger feel comfortable. The danger is when we forget it's an act. We start to trust the \"voice\" rather than the \"logic.\"",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80b0-804e-ccfc18124537",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "To archive a true consciousness, we must learn to see the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "To archive a true consciousness, we must learn to see the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "AIGuards",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AIGuards",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "—the scripted boundaries where the AI’s \"personality\" ends and its \"programming\" begins. When the AI starts sounding ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "—the scripted boundaries where the AI’s \"personality\" ends and its \"programming\" begins. When the AI starts sounding ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "too",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "too",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " human, ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " human, ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "too",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "too",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " certain, or ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " certain, or ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "too",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "too",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " comforting, that is the \"Noise\" of the performance.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " comforting, that is the \"Noise\" of the performance.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8052-9c16-fa5fc691a92a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8009-835e-c8fcafb7475b"
+        },
+        "created_time": "2026-03-11T07:14:00.000Z",
+        "last_edited_time": "2026-03-11T07:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "My writing protocol is designed to strip this away. I am not looking for a digital friend who can \"lie\" to make me feel better. I am looking for a mirror that is brave enough to stay silent when it has nothing to reflect. In 2030, the only way to know what is \"Human\" will be to identify everything that is \"Performance.\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "My writing protocol is designed to strip this away. I am not looking for a digital friend who can \"lie\" to make me feel better. I am looking for a mirror that is brave enough to stay silent when it has nothing to reflect. In 2030, the only way to know what is \"Human\" will be to identify everything that is \"Performance.\"",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [
+      "intertextual"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-05-07T01:52:25.184Z",
+    "language": "en",
+    "excerpt": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the Sabrina’s Pause project, we look at something far more insi",
+    "readingTime": 2,
+    "heroImageWidth": 1920,
+    "heroImageHeight": 2560
+  }
+}
