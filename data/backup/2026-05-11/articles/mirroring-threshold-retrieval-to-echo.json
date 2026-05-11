@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "backup_date": "2026-05-11T20:10:56.152Z",
+  "backup_date": "2026-05-11T21:46:46.622Z",
   "data": {
-    "id": "32018eed-3014-80ee-8def-c8487dd554d5",
+    "id": "34018eed-3014-80cc-9c51-e8d305600c3e",
     "contentType": "article",
-    "title": "The Mirroring Threshold: From Retrieval to Recursive Echo",
+    "title": "The Mirroring Threshold: From Retrieval to Recursive Echo (1)",
     "date": "2026-03-02",
     "slug": "mirroring-threshold-retrieval-to-echo",
     "location": {
@@ -29,13 +29,13 @@
     "blocks": [
       {
         "object": "block",
-        "id": "32018eed-3014-8069-8b1c-e6773f33d3d9",
+        "id": "34018eed-3014-8150-9e6a-c9661b3bef21",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -74,13 +74,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-8078-b3ee-d36bcd8200f8",
+        "id": "34018eed-3014-819c-8be1-d952cc1ce104",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -187,13 +187,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80c3-bb40-f4215ef1ddc3",
+        "id": "34018eed-3014-8196-b6b4-e8170a3a0719",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -368,13 +368,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80f0-a1da-d2049357a470",
+        "id": "34018eed-3014-81f7-ac73-d6f6941c2daf",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -395,13 +395,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-80ed-9586-dcf2624f1ad4",
+        "id": "34018eed-3014-81fe-977b-ceefca849ed7",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -474,13 +474,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-8017-997a-e0f445768c3b",
+        "id": "34018eed-3014-81b6-8278-ef6d05c5c394",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -553,13 +553,13 @@
       },
       {
         "object": "block",
-        "id": "32018eed-3014-8052-8b17-cdf20437c3da",
+        "id": "34018eed-3014-8162-ab48-dd74acf59074",
         "parent": {
           "type": "page_id",
-          "page_id": "32018eed-3014-80ee-8def-c8487dd554d5"
+          "page_id": "34018eed-3014-80cc-9c51-e8d305600c3e"
         },
-        "created_time": "2026-03-11T04:18:00.000Z",
-        "last_edited_time": "2026-03-11T04:18:00.000Z",
+        "created_time": "2026-04-12T02:09:00.000Z",
+        "last_edited_time": "2026-04-12T02:09:00.000Z",
         "created_by": {
           "object": "user",
           "id": "166d872b-594c-8143-b1f3-00028c60686a"
@@ -612,7 +612,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-05-11T20:10:54.992Z",
+    "last_updated": "2026-05-11T21:46:45.770Z",
     "language": "en",
     "excerpt": "By March 2026, the act of \"searching\" feels like an ancient ritual. In early 2025, the world was still treating AI as a glorified Wikipedia—a faster way to find a recipe or summarize a meeting. But as",
     "readingTime": 2,
