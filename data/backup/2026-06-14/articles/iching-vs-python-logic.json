@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-06-14T12:56:31.550Z",
+  "backup_date": "2026-06-14T15:04:47.065Z",
   "data": {
     "id": "32018eed-3014-8033-8dd1-e579696a38fb",
     "contentType": "article",
@@ -868,7 +868,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-06-14T12:56:31.378Z",
+    "last_updated": "2026-06-14T15:04:46.855Z",
     "language": "en",
     "excerpt": "We are living in a world compiled in Python—a clean, efficient, yet utterly linear syntax that has become the ambient noise of our shared digital reality. It is the rigid scaffolding that fuels the \"S",
     "readingTime": 2,
