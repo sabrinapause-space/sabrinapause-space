@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-06-19T00:08:07.958Z",
+  "data": {
+    "id": "32618eed-3014-80c5-b526-d4c4ef11a2c4",
+    "contentType": "article",
+    "title": "What Lives Here",
+    "date": "",
+    "slug": "what_lives_here",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Library",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "bilateral"
+    ],
+    "sdIndex": 5.5,
+    "Intent_Marker": [],
+    "lux": 420,
+    "texture": null,
+    "noise": [
+      "Nature",
+      "Silence"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32618eed-3014-80c5-b526-d4c4ef11a2c4.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "32618eed-3014-8031-be1d-c778b9a455a6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32618eed-3014-80c5-b526-d4c4ef11a2c4"
+        },
+        "created_time": "2026-03-17T07:16:00.000Z",
+        "last_edited_time": "2026-03-17T07:16:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Two bodies of work live on this site. They are not separate projects. They are two registers of the same inquiry.\nThe SDIndex (Sensory Dimension Index) is the framework — a five-dimensional system for encoding how human bodies perceive built spaces, designed to produce structured data that machines can learn from. It is the methodology, the fieldwork protocol, the open dataset.\nThe essays are the process — a first-person record of what it feels like to build that framework: the confusion, the corrections, the collaboration with AI systems, the moments where the work almost made sense and the moments where it did not.\nThe framework asks: can spatial perception be measured? The essays ask: what happens to the person doing the measuring?\nBoth questions are part of the same research. Neither is complete without the other.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Two bodies of work live on this site. They are not separate projects. They are two registers of the same inquiry.\nThe SDIndex (Sensory Dimension Index) is the framework — a five-dimensional system for encoding how human bodies perceive built spaces, designed to produce structured data that machines can learn from. It is the methodology, the fieldwork protocol, the open dataset.\nThe essays are the process — a first-person record of what it feels like to build that framework: the confusion, the corrections, the collaboration with AI systems, the moments where the work almost made sense and the moments where it did not.\nThe framework asks: can spatial perception be measured? The essays ask: what happens to the person doing the measuring?\nBoth questions are part of the same research. Neither is complete without the other.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Phenomenological"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-06-19T00:08:07.757Z",
+    "language": "en",
+    "excerpt": "Two bodies of work live on this site. They are not separate projects. They are two registers of the same inquiry.\nThe SDIndex (Sensory Dimension Index) is the framework — a five-dimensional system for",
+    "readingTime": 1,
+    "heroImageWidth": 1440,
+    "heroImageHeight": 1080
+  }
+}
