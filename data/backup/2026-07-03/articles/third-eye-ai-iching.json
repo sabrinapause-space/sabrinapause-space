@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-07-03T01:51:06.675Z",
+  "data": {
+    "id": "32018eed-3014-805e-a4a6-cddb45176cfa",
+    "contentType": "article",
+    "title": "The Silence of the Third Eye: When AI Meets the I-Ching",
+    "date": "2026-03-08",
+    "slug": "third-eye-ai-iching",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Library",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "inward"
+    ],
+    "sdIndex": 5.5,
+    "Intent_Marker": [],
+    "lux": 100,
+    "texture": null,
+    "noise": [
+      "Nature"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32018eed-3014-805e-a4a6-cddb45176cfa.webp",
+    "blocks": [],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Speculative"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-07-03T01:51:06.275Z",
+    "language": "en",
+    "excerpt": "",
+    "readingTime": 1,
+    "heroImageWidth": 1809,
+    "heroImageHeight": 2560
+  }
+}
