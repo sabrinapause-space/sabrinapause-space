@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-07-09T02:49:17.190Z",
+  "data": {
+    "id": "32018eed-3014-80d2-84de-e37db3f09e77",
+    "contentType": "article",
+    "title": "The Mirror That Doesn't Flatter: On High-Resolution Reflection",
+    "date": "2026-03-05",
+    "slug": "mirror-non-flattering-high-res",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Library",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "recursive"
+    ],
+    "sdIndex": 5,
+    "Intent_Marker": [],
+    "lux": 800,
+    "texture": null,
+    "noise": [
+      "Urban"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32018eed-3014-80d2-84de-e37db3f09e77.webp",
+    "blocks": [],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Hybrid"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-07-09T02:49:16.567Z",
+    "language": "en",
+    "excerpt": "",
+    "readingTime": 1,
+    "heroImageWidth": 2560,
+    "heroImageHeight": 2434
+  }
+}
