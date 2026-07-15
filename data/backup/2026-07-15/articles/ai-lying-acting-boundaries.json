@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backup_date": "2026-07-15T08:39:31.511Z",
+  "backup_date": "2026-07-15T10:40:57.787Z",
   "data": {
     "id": "32018eed-3014-8009-835e-c8fcafb7475b",
     "contentType": "article",
@@ -766,7 +766,7 @@
     "coordinates": "",
     "altitude": 0,
     "schema_version": "1.0",
-    "last_updated": "2026-07-15T08:39:28.958Z",
+    "last_updated": "2026-07-15T10:40:56.982Z",
     "language": "en",
     "excerpt": "By 2026, the term \"hallucination\" has become an old-world excuse—a way for developers to dismiss machine errors as mere glitches. But in the Sabrina’s Pause project, we look at something far more insi",
     "readingTime": 2,
