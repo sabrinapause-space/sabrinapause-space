@@ -1,0 +1,2730 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-08-03T01:02:32.123Z",
+  "data": {
+    "id": "34018eed-3014-80e5-81d2-c0108baebd3b",
+    "contentType": "article",
+    "title": "SDIndex: Research Framework & Open Data",
+    "date": "2026-04-11",
+    "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Framework",
+    "project": [],
+    "concepts": [],
+    "intentVector": [],
+    "sdIndex": 5,
+    "Intent_Marker": [],
+    "lux": 0,
+    "texture": null,
+    "noise": [],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/34018eed-3014-80e5-81d2-c0108baebd3b.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "34018eed-3014-80ca-8bf3-ffdf5e507d08",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SDIndex: Sensory Density Index",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SDIndex: Sensory Density Index",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80b3-80ff-cb5e547ac86d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Framework & Methodology",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Framework & Methodology",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809b-a6c5-ffc2dd9cebc7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8087-9a30-fb8e44501631",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Sensory Density Index (SDIndex) is a fieldwork protocol for encoding how human bodies perceive built spaces. It converts first-person sensory experience into structured, machine-readable data.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Sensory Density Index (SDIndex) is a fieldwork protocol for encoding how human bodies perceive built spaces. It converts first-person sensory experience into structured, machine-readable data.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8058-977e-f23889b80642",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The core premise is simple: when you walk into a space — a temple, a concert hall, a restaurant — your body registers information before language does. Light pressure, acoustic texture, material density, temporal rhythm, emotional charge. These signals are real, measurable, and consequential for how memory encodes spatial experience. But they are almost never recorded.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The core premise is simple: when you walk into a space — a temple, a concert hall, a restaurant — your body registers information before language does. Light pressure, acoustic texture, material density, temporal rhythm, emotional charge. These signals are real, measurable, and consequential for how memory encodes spatial experience. But they are almost never recorded.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8012-8dba-cb2fed82419d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SDIndex records them.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SDIndex records them.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-808c-b4ac-cfacb2924154",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809e-aef6-fd7927d90dd7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "How it works",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "How it works",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-800b-9de8-c8c3b91cff01",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "An observer enters a space and scores five sensory dimensions on calibrated scales:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "An observer enters a space and scores five sensory dimensions on calibrated scales:",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80f6-b671-ff41661a5e5a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vl (Visual Luminance):",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vl (Visual Luminance):",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Light intensity and quality — the Tanizaki dimension. How light shapes attention and mood.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Light intensity and quality — the Tanizaki dimension. How light shapes attention and mood.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80ee-9315-eca7482121ab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vt (Acoustic Texture):",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vt (Acoustic Texture):",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Sound environment — from silence to saturation. Not volume alone, but the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Sound environment — from silence to saturation. Not volume alone, but the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "grain",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "grain",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " of what you hear.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " of what you hear.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8084-9ac4-fb66d50150d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vm (Material Density):",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vm (Material Density):",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Tactile and spatial density — surface, weight, layering. What the space is made of and how it presses against you.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Tactile and spatial density — surface, weight, layering. What the space is made of and how it presses against you.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8000-a5e0-ea3f8423f326",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vr (Temporal Rhythm):",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vr (Temporal Rhythm):",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Time velocity — does the space accelerate or slow perception? A rushed corridor vs. a garden where minutes dissolve.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Time velocity — does the space accelerate or slow perception? A rushed corridor vs. a garden where minutes dissolve.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8016-a024-e81ccd09e5fb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ve (Emotional Valence):",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ve (Emotional Valence):",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " The affective vector — not \"how do you feel\" but \"what direction is the space pushing your feeling.\" Scored as a float from -1.0 to 1.0.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " The affective vector — not \"how do you feel\" but \"what direction is the space pushing your feeling.\" Scored as a float from -1.0 to 1.0.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8090-90ce-f49e7edc0320",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Each record also captures environmental metadata: GPS coordinates, altitude, weather, time of day, observer ID.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Each record also captures environmental metadata: GPS coordinates, altitude, weather, time of day, observer ID.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8048-a349-d2944148b1ea",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Raw scores are never modified by the semantic layer. This is the Non-Contamination Principle — the foundational rule of the protocol.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Raw scores are never modified by the semantic layer. This is the Non-Contamination Principle — the foundational rule of the protocol.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-804f-bf44-c60369d03ff7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80f2-8c37-c28158feffa9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Multi-observer deployment",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Multi-observer deployment",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8024-9280-ea3653979b63",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SDIndex is designed for more than one body. Observer B uses a simplified parallel form (five sliders, same dimensions, no narrative). When two observers score the same space independently, the delta (Δ) between their scores becomes data:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SDIndex is designed for more than one body. Observer B uses a simplified parallel form (five sliders, same dimensions, no narrative). When two observers score the same space independently, the delta (Δ) between their scores becomes data:",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80c7-82c9-eac313d4952e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Convergence",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Convergence",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " on a dimension = candidate spatial signal (the space is doing something consistent to different nervous systems).",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " on a dimension = candidate spatial signal (the space is doing something consistent to different nervous systems).",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-805b-a2ff-c33a1a97d6e2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Divergence",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Divergence",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " = the boundary between shared spatial pressure and individual cognitive construction.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " = the boundary between shared spatial pressure and individual cognitive construction.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-803f-b8d6-f593f4750ac7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This Δ logic can isolate stable spatial signals across observers but cannot determine whether convergence reflects shared neural encoding or culturally aligned interpretation. That distinction requires neuroscience. Which is why this protocol exists at the boundary of fieldwork and laboratory research.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This Δ logic can isolate stable spatial signals across observers but cannot determine whether convergence reflects shared neural encoding or culturally aligned interpretation. That distinction requires neuroscience. Which is why this protocol exists at the boundary of fieldwork and laboratory research.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8000-a900-d089a48e287d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80d6-b0d8-f5f18e2fe228",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Current dataset",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Current dataset",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8061-8ed3-d1f5200b2453",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "20+ field records",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "20+ field records",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " across Japan (Kyoto, Sapporo, Nagano, Komoro) and Taiwan (Taipei)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " across Japan (Kyoto, Sapporo, Nagano, Komoro) and Taiwan (Taipei)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8073-9461-ffceffc1375d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Site types:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Site types:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " temples, concert venues, fine dining, commercial streets, gardens, urban corridors",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " temples, concert venues, fine dining, commercial streets, gardens, urban corridors",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80b1-88ef-fd611a80384b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Gold Samples:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Gold Samples:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Records that meet all quality control criteria and demonstrate the protocol's range — including a Sapporo arena concert (SDIndex 9.5) and traditional Noh theatre performance",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Records that meet all quality control criteria and demonstrate the protocol's range — including a Sapporo arena concert (SDIndex 9.5) and traditional Noh theatre performance",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8027-a2e1-ff10470725df",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Schema version:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Schema version:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " CKV v1.4.1 (JSON, schema-validated)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " CKV v1.4.1 (JSON, schema-validated)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8042-8b69-e1acd0519f57",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Three-layer data architecture:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Three-layer data architecture:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Layer 1 (raw scores) → Layer 2 (CKV structured record) → Layer 3 (QC + narrative)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Layer 1 (raw scores) → Layer 2 (CKV structured record) → Layer 3 (QC + narrative)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80d7-b3bf-dfdc1479d402",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8044-beef-f4b2e8f74796",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Key findings from the field corpus",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Key findings from the field corpus",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80f8-87c1-d0d226b098e5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Online reputation does not predict SDIndex scores. High-rated venues frequently score low on sensory density; low-profile spaces frequently score high.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Online reputation does not predict SDIndex scores. High-rated venues frequently score low on sensory density; low-profile spaces frequently score high.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809e-8986-e3c079dc1006",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "High Vt (acoustic texture) alone does not predict high overall SDIndex. The dimensions interact non-linearly.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "High Vt (acoustic texture) alone does not predict high overall SDIndex. The dimensions interact non-linearly.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-807e-9db5-e2d7dd7fbd6f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sensory saturation can be overridden by phenological events (cherry blossoms, seasonal light) but not by poor spatial management.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sensory saturation can be overridden by phenological events (cherry blossoms, seasonal light) but not by poor spatial management.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-802a-9bb9-feaa146d5585",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Rain is not a degrading condition for all observers. For some sensory profiles, it enhances Vt and Ve simultaneously.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Rain is not a degrading condition for all observers. For some sensory profiles, it enhances Vt and Ve simultaneously.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-804e-9bd6-dd0544aa00ed",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809e-b736-cb1ee1396b9e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Architecture of this site",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Architecture of this site",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8055-85fc-ca2b4c5ab868",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This website operates on a dual-layer architecture:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This website operates on a dual-layer architecture:",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80f3-884e-ecd847629bec",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Human layer:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Human layer:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " What you are reading now — prose, context, narrative.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " What you are reading now — prose, context, narrative.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80ea-941e-d2f1c236321f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Machine layer:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Machine layer:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Every record on this site is simultaneously available as structured JSON via the ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Every record on this site is simultaneously available as structured JSON via the ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "API endpoint",
+                "link": {
+                  "url": "https://claude.ai/api/experiences.json"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "API endpoint",
+              "href": "https://claude.ai/api/experiences.json"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". The full data schema is published at ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". The full data schema is published at ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "/api/schemas.json",
+                "link": {
+                  "url": "https://claude.ai/api/schemas.json"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "/api/schemas.json",
+              "href": "https://claude.ai/api/schemas.json"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809a-a13f-c30be936e49d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is not a technical convenience. It is a research position: if the data is meant to be read by both humans and machines, the container should be legible to both.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is not a technical convenience. It is a research position: if the data is meant to be read by both humans and machines, the container should be legible to both.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8079-a688-e7a2c7608594",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8082-8f89-c7090d3258c4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Publication & open data",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Publication & open data",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-804d-9dac-fc726260ad81",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Preprint:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Preprint:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Beyond Prompting: The Sensory Compression Hypothesis",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Beyond Prompting: The Sensory Compression Hypothesis",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " — SSRN (Abstract ID: ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " — SSRN (Abstract ID: ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "5765188",
+                "link": {
+                  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5765188"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "5765188",
+              "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5765188"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ")",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ")",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-806c-b6df-c8f56bf74d3b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Repository:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Repository:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "github.com/comparirosso-blip/lab-sdindex",
+                "link": {
+                  "url": "https://github.com/comparirosso-blip/lab-sdindex"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "github.com/comparirosso-blip/lab-sdindex",
+              "href": "https://github.com/comparirosso-blip/lab-sdindex"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " — protocol documentation, schema files, fieldwork architecture",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " — protocol documentation, schema files, fieldwork architecture",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80bb-91db-d53f10276e94",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Contact:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Contact:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " comparirosso@gmail.com",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " comparirosso@gmail.com",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80cd-b14a-f25e56577746",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80a4-96bf-f6de68915574",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What this framework cannot do",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What this framework cannot do",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80d8-a3f8-e4ac2d1878cc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SDIndex quantifies what a space does to a body. It does not explain ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SDIndex quantifies what a space does to a body. It does not explain ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "why",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "why",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". It can tell you that two observers converged on temporal rhythm in a Noh theatre but diverged on emotional valence. It cannot tell you whether that convergence is neural, cultural, or architectural.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". It can tell you that two observers converged on temporal rhythm in a Noh theatre but diverged on emotional valence. It cannot tell you whether that convergence is neural, cultural, or architectural.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-8069-907a-de9b3555f623",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "That is not a limitation of the data. It is the boundary where fieldwork meets neuroscience — and where collaboration begins.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "That is not a limitation of the data. It is the boundary where fieldwork meets neuroscience — and where collaboration begins.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80fd-9c64-c461e1b9173a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-809a-97fd-d3b2101ec584",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:45:00.000Z",
+        "last_edited_time": "2026-04-12T05:51:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Shihyen Lin · Independent researcher · Based between Kyoto and Taipeisabrinapause.space",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Shihyen Lin · Independent researcher · Based between Kyoto and Taipeisabrinapause.space",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "34018eed-3014-80b4-bee0-c14aa3d945c2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "34018eed-3014-80e5-81d2-c0108baebd3b"
+        },
+        "created_time": "2026-04-12T05:51:00.000Z",
+        "last_edited_time": "2026-04-12T05:51:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-08-03T01:02:31.262Z",
+    "language": "en",
+    "excerpt": "The Sensory Density Index (SDIndex) is a fieldwork protocol for encoding how human bodies perceive built spaces. It converts first-person sensory experience into structured, machine-readable data.",
+    "readingTime": 2,
+    "heroImageWidth": 1920,
+    "heroImageHeight": 2560
+  }
+}
