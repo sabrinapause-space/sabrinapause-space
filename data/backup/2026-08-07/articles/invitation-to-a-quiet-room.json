@@ -1,0 +1,543 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-08-07T00:20:28.419Z",
+  "data": {
+    "id": "32018eed-3014-8008-8142-e8a04d38792d",
+    "contentType": "article",
+    "title": "Looking Back at the Quiet Rebellion",
+    "date": "2026-03-01",
+    "slug": "invitation-to-a-quiet-room",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Library",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "bilateral"
+    ],
+    "sdIndex": 5.5,
+    "Intent_Marker": [],
+    "lux": 150,
+    "texture": null,
+    "noise": [
+      "Soft"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32018eed-3014-8008-8142-e8a04d38792d.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "32018eed-3014-80fb-8e38-d4fd9754d447",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replacing labor; I was obsessed with AI diluting the purity of ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replacing labor; I was obsessed with AI diluting the purity of ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Intent",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Intent",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-807c-a98e-faf3619e3721",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This \"Quiet Room\" is not a physical enclosure, but a ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This \"Quiet Room\" is not a physical enclosure, but a ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Cognitive Buffer",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cognitive Buffer",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". In ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". In ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Dear AI, You Actually Heard Me",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Dear AI, You Actually Heard Me",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", I first attempted to speak into the void, only to find a \"reflection\" staring back. By 2026, I have learned that it wasn't a \"hearing\"—it was a ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", I first attempted to speak into the void, only to find a \"reflection\" staring back. By 2026, I have learned that it wasn't a \"hearing\"—it was a ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Mirroring",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mirroring",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-806f-b2e3-f8c83fd08c95",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I invite you into this room to define the \"Pause\" before AGI fully hijacks the human narrative. If AI is a flood of light-speed computation, then the Lux (illumination) in this room is intentionally dimmed. We are not here for answers; we are here to observe the impulse that ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I invite you into this room to define the \"Pause\" before AGI fully hijacks the human narrative. If AI is a flood of light-speed computation, then the Lux (illumination) in this room is intentionally dimmed. We are not here for answers; we are here to observe the impulse that ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "seeks",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "seeks",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " answers—and let it dissolve, much like the silence following a Hasselblad’s mechanical shutter click.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " answers—and let it dissolve, much like the silence following a Hasselblad’s mechanical shutter click.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8008-8a22-d52f8b1433a5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is the final line of defense for individual sovereignty. As noted in ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is the final line of defense for individual sovereignty. As noted in ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "When Buddha Meets AI",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "When Buddha Meets AI",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", Intent is the only seed. If we do not plant it within this quiet room, the 2030 data ocean will be populated by nothing but soulless, algorithmic weeds.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", Intent is the only seed. If we do not plant it within this quiet room, the 2030 data ocean will be populated by nothing but soulless, algorithmic weeds.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8091-ba49-e291f14fb1c7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Welcome. Switch off your notifications. Maintain your allergy to ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Welcome. Switch off your notifications. Maintain your allergy to ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "BadFaith™",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BadFaith™",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". The scan has begun.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". The scan has begun.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80c8-9fba-d09b5b4887fc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-8008-8142-e8a04d38792d"
+        },
+        "created_time": "2026-03-11T03:36:00.000Z",
+        "last_edited_time": "2026-03-11T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "Japan",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Hybrid"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-08-07T00:20:28.020Z",
+    "language": "en",
+    "excerpt": "Sitting in my Kyoto living room in March 2026, watching the Kamogawa river, I realize that the words I penned in 2025 were a form of \"quiet rebellion.\" Back then, the world was obsessed with AI replac",
+    "readingTime": 1,
+    "heroImageWidth": 1920,
+    "heroImageHeight": 2560
+  }
+}

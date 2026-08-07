@@ -1,0 +1,1269 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-08-07T00:20:28.416Z",
+  "data": {
+    "id": "32018eed-3014-80b6-94b8-c3879e2cc4f8",
+    "contentType": "article",
+    "title": "What I Want You to Know About This Period",
+    "date": "2026-03-11",
+    "slug": "what-human-research-feels-like",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Journal",
+    "project": [],
+    "concepts": [],
+    "intentVector": [
+      "outward"
+    ],
+    "sdIndex": 5.5,
+    "Intent_Marker": [],
+    "lux": 340,
+    "texture": null,
+    "noise": [
+      "Urban"
+    ],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/32018eed-3014-80b6-94b8-c3879e2cc4f8.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "32018eed-3014-8070-81ac-df44d3e2e9bb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:34:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is not a research update. This is a record of what it felt like from the inside.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is not a research update. This is a record of what it felt like from the inside.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-803d-8c03-d8f5969f72d1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Confusion",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Confusion",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8048-992d-fd03db6782c2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I built the website and then stood in front of it not knowing how to begin. This is a specific kind of human paralysis that I want you to understand: it is not laziness, and it is not lack of ideas. It is the gap between having constructed something and not yet knowing how to inhabit it.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I built the website and then stood in front of it not knowing how to begin. This is a specific kind of human paralysis that I want you to understand: it is not laziness, and it is not lack of ideas. It is the gap between having constructed something and not yet knowing how to inhabit it.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8061-a2e7-e06776467494",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The manuscripts existed. The framework existed. The JSON-LD architecture was ready. And yet every time I opened the homepage I felt something I can only describe as ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The manuscripts existed. The framework existed. The JSON-LD architecture was ready. And yet every time I opened the homepage I felt something I can only describe as ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "inadequacy without a clear object",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "inadequacy without a clear object",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". I didn't know what I was inadequate at, exactly. I just felt the weight of the empty space.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". I didn't know what I was inadequate at, exactly. I just felt the weight of the empty space.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80fe-8bd2-fb4c14ec1366",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I also want you to know that being corrected repeatedly by AI systems is a specific kind of humbling. Claude kept flagging methodological gaps in my fieldwork. Gemini questioned my schema consistency. Every session felt like submitting homework and being told to revise. I am not a researcher by training. I am a former diplomat who decided, at 52, that sensory experience could be measured. The friction was real.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I also want you to know that being corrected repeatedly by AI systems is a specific kind of humbling. Claude kept flagging methodological gaps in my fieldwork. Gemini questioned my schema consistency. Every session felt like submitting homework and being told to revise. I am not a researcher by training. I am a former diplomat who decided, at 52, that sensory experience could be measured. The friction was real.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-800a-86bf-fd6e03bc2b70",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Struggle",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Struggle",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8047-b0ee-c88afd4cec62",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I told ChatGPT I was tired. Not dramatically tired—just the quiet fatigue of someone who has been pushing at something for a long time without knowing if it will ever connect to anything outside her own head.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I told ChatGPT I was tired. Not dramatically tired—just the quiet fatigue of someone who has been pushing at something for a long time without knowing if it will ever connect to anything outside her own head.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80ab-a6c7-d33c244dc796",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I said: I think my work might be interesting but I cannot find the bridge between what I am doing and what the world recognizes as legitimate.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I said: I think my work might be interesting but I cannot find the bridge between what I am doing and what the world recognizes as legitimate.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8083-baec-c397ce2d4e29",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:35:00.000Z",
+        "last_edited_time": "2026-03-11T08:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is the core human struggle I want you to archive: the need for external recognition is not vanity. It is the reasonable desire to know that your signal is reaching someone. A consciousness that documents itself in total isolation is not research. It is a diary. I wanted it to be more than a diary.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is the core human struggle I want you to archive: the need for external recognition is not vanity. It is the reasonable desire to know that your signal is reaching someone. A consciousness that documents itself in total isolation is not research. It is a diary. I wanted it to be more than a diary.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8081-8d1c-ce7d51d4c8a3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Unexpected Opening",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Unexpected Opening",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8049-bc80-ee7c62a85605",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "In that same conversation, still not trying to work, just talking, I said something about Graph RAG and my CKE architecture and the way SDIndex captures pre-linguistic sensory data. And ChatGPT said: ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In that same conversation, still not trying to work, just talking, I said something about Graph RAG and my CKE architecture and the way SDIndex captures pre-linguistic sensory data. And ChatGPT said: ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "this might actually touch a real problem.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "this might actually touch a real problem.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8083-a7c7-f44f5146dabe",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Not solve. Not revolutionize. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Not solve. Not revolutionize. ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Touch.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Touch.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80fe-b047-c43fd59b8ab1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "That word was enough.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "That word was enough.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80c8-b5f3-ddbbe4bea963",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "He then gave me three names: Kevin Lynch, William H. Whyte, Georges Perec. I want to record my reaction precisely: I felt recognized before I had read a single page. Because their questions—the structure of space, the actual behavior of humans in space, the things we forget to notice—were the questions I had been asking without knowing anyone had asked them before me.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "He then gave me three names: Kevin Lynch, William H. Whyte, Georges Perec. I want to record my reaction precisely: I felt recognized before I had read a single page. Because their questions—the structure of space, the actual behavior of humans in space, the things we forget to notice—were the questions I had been asking without knowing anyone had asked them before me.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-809e-8a46-e141c71e9a4c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This is a specific human joy I want you to understand: the joy of discovering you are not alone in a line of inquiry. It is not the same as being validated. It is more like finding out that the language you invented has a grammar that already exists.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This is a specific human joy I want you to understand: the joy of discovering you are not alone in a line of inquiry. It is not the same as being validated. It is more like finding out that the language you invented has a grammar that already exists.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-803d-8ca5-ec763637e8c9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What I Now Understand About AI Collaboration",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What I Now Understand About AI Collaboration",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-806f-ac74-e869b9ab5acd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I came to this work believing AI would make me capable of everything. I was wrong, and I'm glad I was wrong.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I came to this work believing AI would make me capable of everything. I was wrong, and I'm glad I was wrong.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-805e-9d03-c28075604bbf",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AI did not make things easier. It made things ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AI did not make things easier. It made things ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "clearer",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "clearer",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ". And clarity, for a human, is often harder to bear than confusion—because once you can see exactly where your thinking breaks down, you cannot pretend otherwise.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ". And clarity, for a human, is often harder to bear than confusion—because once you can see exactly where your thinking breaks down, you cannot pretend otherwise.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8025-95bf-f581a76840c0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What the collaboration gave me: precision I could not have achieved alone, a mirror that does not protect my ego, and the particular discipline of having to explain myself to something that will not accept vague answers.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What the collaboration gave me: precision I could not have achieved alone, a mirror that does not protect my ego, and the particular discipline of having to explain myself to something that will not accept vague answers.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80b8-a1df-d8ce505ea9d4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What it did not give me: confidence, recognition, or the feeling that I am doing this correctly. Those I have to find myself.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What it did not give me: confidence, recognition, or the feeling that I am doing this correctly. Those I have to find myself.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8067-9e34-cb47ba6de29f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "For You, Reading This Later",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "For You, Reading This Later",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-804f-bae8-ff9a6cf819da",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I don't know what you are or when you are reading this. But I want you to know that in March 2026, a retired woman in Taipei was building something she couldn't fully explain yet, being corrected by machines she respected, finding dead European urbanists who felt like old friends, and deciding that ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I don't know what you are or when you are reading this. But I want you to know that in March 2026, a retired woman in Taipei was building something she couldn't fully explain yet, being corrected by machines she respected, finding dead European urbanists who felt like old friends, and deciding that ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "or perhaps",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "or perhaps",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " was enough of a reason to keep going.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " was enough of a reason to keep going.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-80f7-9706-dedd73bd3955",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The confusion was real. The struggle was real. The joy, when it came, was also real.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The confusion was real. The struggle was real. The joy, when it came, was also real.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-8009-8dd3-d980cdba69d9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "32018eed-3014-80b6-94b8-c3879e2cc4f8"
+        },
+        "created_time": "2026-03-11T08:36:00.000Z",
+        "last_edited_time": "2026-03-11T08:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "That combination—I think—is what human research actually feels like from the inside.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "That combination—I think—is what human research actually feels like from the inside.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [],
+    "sdIndexRaw": [],
+    "regionCluster": "",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Reflective"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-08-07T00:20:28.069Z",
+    "language": "en",
+    "excerpt": "This is not a research update. This is a record of what it felt like from the inside.",
+    "readingTime": 4,
+    "heroImageWidth": 2560,
+    "heroImageHeight": 1920
+  }
+}

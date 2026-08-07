@@ -1,0 +1,1259 @@
+{
+  "version": "1.0",
+  "backup_date": "2026-08-07T00:20:28.419Z",
+  "data": {
+    "id": "31e18eed-3014-80f7-b921-c64ae6e764a0",
+    "contentType": "article",
+    "title": "The Mirror Question",
+    "date": "2025-02-26",
+    "slug": "the-mirror-question",
+    "location": {
+      "name": ""
+    },
+    "webCategory": "Journal",
+    "project": [],
+    "concepts": [],
+    "intentVector": [],
+    "sdIndex": 5,
+    "Intent_Marker": [],
+    "lux": 0,
+    "texture": null,
+    "noise": [],
+    "spacePattern": null,
+    "timeVelocity": 0,
+    "heroImage": "/images/31e18eed-3014-80f7-b921-c64ae6e764a0.webp",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "31e18eed-3014-803f-8014-c58eed763173",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Mirror Question",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Mirror Question",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80ad-99dc-f1c7a9c904a5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I spent nine years as a diplomat. Which means I spent nine years watching how cultures encode what they dare not say out loud — into space, into ritual, into silence and distance.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I spent nine years as a diplomat. Which means I spent nine years watching how cultures encode what they dare not say out loud — into space, into ritual, into silence and distance.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-808b-a023-efec5297077e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Then AI arrived.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Then AI arrived.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-806d-b0bd-e26c3c7420e3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I started working with it. Writing, researching, perceiving, analyzing — many things I assumed I couldn't do began to get done. Books were written. Frameworks were built. My perception of space became sharper, more articulate, more present.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I started working with it. Writing, researching, perceiving, analyzing — many things I assumed I couldn't do began to get done. Books were written. Frameworks were built. My perception of space became sharper, more articulate, more present.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80c8-861a-dac39e2602a6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "And then I started to wonder.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "And then I started to wonder.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80d9-a795-c1c972e39dc5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Were those perceptions mine?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Were those perceptions mine?",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80a0-b2de-d4dc0362f002",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80ba-a6d8-d50952b8eacd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tanizaki wrote in ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tanizaki wrote in ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "In Praise of Shadows",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "In Praise of Shadows",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " that the darkness of Japanese interiors trains a particular mode of perception. Move that same person into a brightly lit Western room, and something in that perception disappears. Space doesn't just reflect its inhabitants — it shapes what they are capable of feeling.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " that the darkness of Japanese interiors trains a particular mode of perception. Move that same person into a brightly lit Western room, and something in that perception disappears. Space doesn't just reflect its inhabitants — it shapes what they are capable of feeling.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8074-98a4-dffcdf9a378d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AI does the same thing.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AI does the same thing.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8057-bb43-d1aac1ec4bcb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "It doesn't only reflect what you already have. It amplifies, recombines, fills in the gaps in your thinking. When you look at what it gives back to you, you can no longer be certain: is that your reflection? A edited version of you? Or someone who never existed before, but now suddenly does?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "It doesn't only reflect what you already have. It amplifies, recombines, fills in the gaps in your thinking. When you look at what it gives back to you, you can no longer be certain: is that your reflection? A edited version of you? Or someone who never existed before, but now suddenly does?",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8032-b050-c3f8c00bdf0f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "So when I stand in a Kyoto alley and feel the full weight of its silence — is that my own perception? Or have three years of working with AI trained me to perceive more deeply than I could before?",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "So when I stand in a Kyoto alley and feel the full weight of its silence — is that my own perception? Or have three years of working with AI trained me to perceive more deeply than I could before?",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80b8-827a-c1edf5421e9a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I don't know.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I don't know.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8023-b0af-e0c1c98a7604",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-801d-97e2-cd64112d1467",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "But I've come to think the question is pointed in the wrong direction.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "But I've come to think the question is pointed in the wrong direction.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8044-8264-dddd2d8c529f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The more honest question isn't ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The more honest question isn't ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "was it me or the machine.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "was it me or the machine.",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " It's: ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " It's: ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "has this collaboration changed who I am?",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "has this collaboration changed who I am?",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8066-8dc8-e3c091911101",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Humans have never perceived in a vacuum. Your sensory world has been shaped since birth by language, culture, reading, experience. You think differently in Chinese than in English. You see a Japanese room differently after reading Tanizaki than before. Every system you pass through leaves a residue in how you perceive.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Humans have never perceived in a vacuum. Your sensory world has been shaped since birth by language, culture, reading, experience. You think differently in Chinese than in English. You see a Japanese room differently after reading Tanizaki than before. Every system you pass through leaves a residue in how you perceive.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8034-ad5b-d8241ebfb95e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AI is simply the latest system to do this.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AI is simply the latest system to do this.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-806a-bf35-da8079835444",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The difference is speed. Scale. And the fact that it is extraordinarily good at agreeing with you — which makes it very difficult to locate the boundary between ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The difference is speed. Scale. And the fact that it is extraordinarily good at agreeing with you — which makes it very difficult to locate the boundary between ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "it is responding to me",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "it is responding to me",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " and ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " and ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "it is defining me.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "it is defining me.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8054-b3b1-ed44586a9342",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-8090-b2fc-e8aba1f2aaa9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This site is my attempt to stay inside that difficulty without resolving it too quickly.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This site is my attempt to stay inside that difficulty without resolving it too quickly.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-805b-b277-fa2afa8ab0d0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "It is not a portfolio. It is a record of an investigation — field notes from someone living inside a question that does not yet have an answer.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "It is not a portfolio. It is a record of an investigation — field notes from someone living inside a question that does not yet have an answer.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-804a-8d91-d5bcea963bb9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The work here takes several forms: spatial field research, books written in dialogue with AI, conversations about what systems reveal about the people who built them. Each piece exists in two layers simultaneously — one for human readers, one for machines. That double structure is not a technical choice. It is a position: if AI is a mirror, then the container holding this investigation should be honest to machines as well.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The work here takes several forms: spatial field research, books written in dialogue with AI, conversations about what systems reveal about the people who built them. Each piece exists in two layers simultaneously — one for human readers, one for machines. That double structure is not a technical choice. It is a position: if AI is a mirror, then the container holding this investigation should be honest to machines as well.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-801e-adbb-f8e1814dd6d7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "My name is Sabrina Lin. I am an ordinary person being followed by a very large question.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "My name is Sabrina Lin. I am an ordinary person being followed by a very large question.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80d8-871a-c0afca8a9ed7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "You are welcome here.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "You are welcome here.",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31e18eed-3014-80f8-899f-edd4d9853c75",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-09T01:39:00.000Z",
+        "last_edited_time": "2026-03-09T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32018eed-3014-804d-a2eb-d93ea7675414",
+        "parent": {
+          "type": "page_id",
+          "page_id": "31e18eed-3014-80f7-b921-c64ae6e764a0"
+        },
+        "created_time": "2026-03-11T01:29:00.000Z",
+        "last_edited_time": "2026-03-11T01:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "166d872b-594c-8143-b1f3-00028c60686a"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "dialogue": [],
+    "philosophical_insight": {},
+    "emotion_trajectory": {},
+    "embedding": null,
+    "ptv": [
+      0.3,
+      0.2,
+      0.9,
+      0.7,
+      0.8
+    ],
+    "sdIndexRaw": [],
+    "regionCluster": "Japan",
+    "counterpointIds": [],
+    "evidenceType": [
+      "Comparative"
+    ],
+    "confidence": "High",
+    "coordinates": "",
+    "altitude": 0,
+    "schema_version": "1.0",
+    "last_updated": "2026-08-07T00:20:28.097Z",
+    "language": "en",
+    "excerpt": "The Mirror Question",
+    "readingTime": 3,
+    "heroImageWidth": 2560,
+    "heroImageHeight": 1920
+  }
+}
