@@ -30,6 +30,26 @@ export class NotionLoader implements ContentLoader {
   }
 
   /**
+   * Retry a Notion API call with exponential backoff.
+   * Notion's SDK occasionally surfaces raw network/undici failures (dropped
+   * connections, timeouts) as opaque low-level errors instead of clean
+   * APIResponseErrors — retrying a couple of times avoids failing an entire
+   * build over a single transient blip.
+   */
+  private async withRetry<T>(fn: () => Promise<T>, retries = 3): Promise<T> {
+    for (let i = 0; i < retries; i++) {
+      try {
+        return await fn();
+      } catch (err) {
+        if (i === retries - 1) throw err;
+        await new Promise(resolve => setTimeout(resolve, 500 * (i + 1)));
+      }
+    }
+    // Unreachable, but keeps TS happy
+    throw new Error('withRetry: exhausted retries');
+  }
+
+  /**
    * Fetch all blocks for a page
    */
   private async fetchPageBlocks(pageId: string): Promise<NotionBlock[]> {
@@ -37,10 +57,12 @@ export class NotionLoader implements ContentLoader {
     let cursor: string | undefined = undefined;
 
     do {
-      const response = await this.notion.blocks.children.list({
-        block_id: pageId,
-        start_cursor: cursor,
-      });
+      const response = await this.withRetry(() =>
+        this.notion.blocks.children.list({
+          block_id: pageId,
+          start_cursor: cursor,
+        })
+      );
 
       blocks.push(...(response.results as NotionBlock[]));
       cursor = response.next_cursor || undefined;
@@ -59,26 +81,28 @@ export class NotionLoader implements ContentLoader {
     let cursor: string | undefined = undefined;
 
     do {
-      const response = await this.notion.databases.query({
-        database_id: this.databaseId,
-        filter: {
-          or: [
-            {
-              property: 'Status',
-              select: {
-                equals: 'Ready for Web',
+      const response = await this.withRetry(() =>
+        this.notion.databases.query({
+          database_id: this.databaseId,
+          filter: {
+            or: [
+              {
+                property: 'Status',
+                select: {
+                  equals: 'Ready for Web',
+                },
               },
-            },
-            {
-              property: 'Status',
-              select: {
-                equals: 'Published',
+              {
+                property: 'Status',
+                select: {
+                  equals: 'Published',
+                },
               },
-            },
-          ],
-        },
-        start_cursor: cursor,
-      });
+            ],
+          },
+          start_cursor: cursor,
+        })
+      );
 
       pages.push(...response.results);
       cursor = response.next_cursor || undefined;
