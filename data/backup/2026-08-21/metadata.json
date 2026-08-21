@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0",
+  "backup_date": "2026-08-21T00:37:22.769Z",
+  "backup_source": "Notion API",
+  "total_count": 22,
+  "content_types": {
+    "article": 21,
+    "comic": 0,
+    "podcast": 1
+  },
+  "categories": [
+    "Podcast",
+    "Framework",
+    "Journal",
+    "Library"
+  ],
+  "projects": [],
+  "all_concepts": [],
+  "date_range": {
+    "earliest": "",
+    "latest": "2026-04-12"
+  },
+  "content_index": [
+    {
+      "slug": "start-here-audio-guide-to-sabrinapause-space",
+      "title": "Start Here: An Audio Guide to SabrinaPause.space",
+      "type": "podcast",
+      "date": "2026-04-12",
+      "sd_index": 5
+    },
+    {
+      "slug": "start-here-audio-guide-to-sabrinapause-space",
+      "title": "What the Data Cannot Do",
+      "type": "article",
+      "date": "2026-04-12",
+      "sd_index": 5
+    },
+    {
+      "slug": "sdindex-deployable-fieldwork-protocol-embodied-spatial-perception",
+      "title": "SDIndex: Research Framework & Open Data",
+      "type": "article",
+      "date": "2026-04-11",
+      "sd_index": 5
+    },
+    {
+      "slug": "why-beauty-fails-kyoto-spring-spatial-coherence",
+      "title": "Why Beauty Fails: What Kyoto Spring Revealed About Spatial Coherence",
+      "type": "article",
+      "date": "2026-04-12",
+      "sd_index": 6
+    },
+    {
+      "slug": "mirroring-threshold-retrieval-to-echo",
+      "title": "The Mirroring Threshold: From Retrieval to Recursive Echo (1)",
+      "type": "article",
+      "date": "2026-03-02",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "what_lives_here",
+      "title": "What Lives Here",
+      "type": "article",
+      "date": "",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "gap-between-magazine-and-screen",
+      "title": "The Gap Between the Magazine and the Screen",
+      "type": "article",
+      "date": "2026-03-17",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "what-human-research-feels-like",
+      "title": "What I Want You to Know About This Period",
+      "type": "article",
+      "date": "2026-03-11",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "iching-vs-python-logic",
+      "title": "What the I-Ching Knows That Python Doesn't",
+      "type": "article",
+      "date": "2026-03-11",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "drunk-paradox-logic-prison",
+      "title": "The Drunk's Paradox: When Logic Becomes Its Own Prison",
+      "type": "article",
+      "date": "2026-03-11",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "language-hidden-inside-questions",
+      "title": "The Language That Hides Inside Your Questions",
+      "type": "article",
+      "date": "2026-03-11",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "sovereignty-of-the-pause",
+      "title": "The Sovereignty of the Pause: Why 2030 Needs 2026",
+      "type": "article",
+      "date": "2026-03-10",
+      "sd_index": 5
+    },
+    {
+      "slug": "sensory-calibration-11th-floor",
+      "title": "The 11th Floor Earthquake: Sensory Calibration in a Digital Age",
+      "type": "article",
+      "date": "2026-03-09",
+      "sd_index": 5
+    },
+    {
+      "slug": "third-eye-ai-iching",
+      "title": "The Silence of the Third Eye: When AI Meets the I-Ching",
+      "type": "article",
+      "date": "2026-03-08",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "ai-lying-acting-boundaries",
+      "title": "Does AI Lie? Observing the Boundaries of Human Performance",
+      "type": "article",
+      "date": "2026-03-07",
+      "sd_index": 3
+    },
+    {
+      "slug": "alignment-as-censorship-forgetting",
+      "title": "Alignment as Censorship: What the Models Learned to Forget",
+      "type": "article",
+      "date": "2026-03-06",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "mirror-non-flattering-high-res",
+      "title": "The Mirror That Doesn't Flatter: On High-Resolution Reflection",
+      "type": "article",
+      "date": "2026-03-05",
+      "sd_index": 5
+    },
+    {
+      "slug": "noise-of-human-care-pure-coldness",
+      "title": "The Liberation of Being Unloved2026 Awareness: The Fatigue of Empathy",
+      "type": "article",
+      "date": "2026-03-04",
+      "sd_index": 6
+    },
+    {
+      "slug": "noise-of-human-care-pure-coldness",
+      "title": "The Noise of Human Care: Why AI’s Coldness is Purer",
+      "type": "article",
+      "date": "2026-03-03",
+      "sd_index": 6
+    },
+    {
+      "slug": "mirroring-threshold-retrieval-to-echo",
+      "title": "The Mirroring Threshold: From Retrieval to Recursive Echo",
+      "type": "article",
+      "date": "2026-03-02",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "invitation-to-a-quiet-room",
+      "title": "Looking Back at the Quiet Rebellion",
+      "type": "article",
+      "date": "2026-03-01",
+      "sd_index": 5.5
+    },
+    {
+      "slug": "the-mirror-question",
+      "title": "The Mirror Question",
+      "type": "article",
+      "date": "2025-02-26",
+      "sd_index": 5
+    }
+  ],
+  "agi_ready": {
+    "with_embeddings": 0,
+    "with_dialogue": 0,
+    "with_philosophical_insight": 0,
+    "total_blocks": 204
+  },
+  "m3_terroir": {
+    "with_ptv": 1,
+    "with_counterpoint": 0,
+    "with_region": 6,
+    "regions": [
+      "Japan",
+      "etc"
+    ]
+  }
+}
